@@ -31,20 +31,20 @@ https://nilenso.com/decisions
 
 Here are some stuff that you should install if you are using Mac for the first time.
 
-* [https://github.com/MacPass/MacPass MacPass] -- KeyPass Client for Mac
-* [https://www.iterm2.com/ iTerm] -- Better Terminal
-* [https://brew.sh/ HomeBrew] -- package manager
-* [https://www.spectacleapp.com/ Spectacle] -- for window management
-* [https://itunes.apple.com/in/app/flycut-clipboard-manager/ Flycut] -- clipboard manager
-* [http://lightheadsw.com/caffeine/ Caffeine] -- keep you mac awake
-* [https://kapeli.com/dash Dash] -- offline searchable programming docs
-* [http://displaymenu.milchimgemuesefach.de/ Display menu] -- display menu in your menu bar
-* [https://justgetflux.com/ Flux] -- work late nights for the man without damaging your eyes
-* [https://www.zotero.org/download/ Zotero] -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
+* (https://github.com/MacPass/MacPass)[MacPass] -- KeyPass Client for Mac
+* (https://www.iterm2.com)[iTerm] -- Better Terminal
+* (https://brew.sh)[HomeBrew] -- package manager
+* (https://www.spectacleapp.com)[Spectacle] -- for window management
+* (https://itunes.apple.com/in/app/flycut-clipboard-manager)[Flycut] -- clipboard manager
+* (http://lightheadsw.com/caffeine)[Caffeine] -- keep you mac awake
+* (https://kapeli.com/dash)[Dash] -- offline searchable programming docs
+* (http://displaymenu.milchimgemuesefach.de)[Display menu] -- display menu in your menu bar
+* (https://justgetflux.com)[Flux] -- work late nights for the man without damaging your eyes
+* (https://www.zotero.org/download)[Zotero] -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
 
 ### effective Remote
 
-#### Practices
+#### practices
 * Have a `dedicated workspace`, preferably a separate room. If you don't have that, a separate table. If you don't have that, a separate computer for your non-work computing. Essentially you want to emphasize your work/life boundaries
 * Stick with office wear which you'd wear to an office. Pick these with the same care that you'd give to office wear.
 * If you have the option to work from elsewhere, do that once in a while
