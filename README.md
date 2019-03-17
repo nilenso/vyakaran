@@ -31,16 +31,16 @@ https://nilenso.com/decisions
 
 Here are some stuff that you should install if you are using Mac for the first time.
 
-* (https://github.com/MacPass/MacPass)[MacPass] -- KeyPass Client for Mac
-* (https://www.iterm2.com)[iTerm] -- Better Terminal
-* (https://brew.sh)[HomeBrew] -- package manager
-* (https://www.spectacleapp.com)[Spectacle] -- for window management
-* (https://itunes.apple.com/in/app/flycut-clipboard-manager)[Flycut] -- clipboard manager
-* (http://lightheadsw.com/caffeine)[Caffeine] -- keep you mac awake
-* (https://kapeli.com/dash)[Dash] -- offline searchable programming docs
-* (http://displaymenu.milchimgemuesefach.de)[Display menu] -- display menu in your menu bar
-* (https://justgetflux.com)[Flux] -- work late nights for the man without damaging your eyes
-* (https://www.zotero.org/download)[Zotero] -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
+* [MacPass](https://github.com/MacPass/MacPass) -- KeyPass Client for Mac
+* [iTerm](https://www.iterm2.com) -- Better Terminal
+* [HomeBrew](https://brew.sh) -- package manager
+* [Spectacle](https://www.spectacleapp.com) -- for window management
+* [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager) -- clipboard manager
+* [Caffeine](http://lightheadsw.com/caffeine) -- keep you mac awake
+* [Dash] (https://kapeli.com/dash) -- offline searchable programming docs
+* [Display menu](http://displaymenu.milchimgemuesefach.de) -- display menu in your menu bar
+* [Flux](https://justgetflux.com) -- work late nights for the man without damaging your eyes
+* [Zotero](https://www.zotero.org/download) -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
 
 ### effective Remote
 
