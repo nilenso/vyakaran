@@ -23,7 +23,7 @@ https://nilenso.com/decisions
 * Refactoring
 * Testing
 * Time
-* Project Management
+* [Project Management](project-management/project-management.md)
 
 # the community
 
