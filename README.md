@@ -24,3 +24,11 @@ https://nilenso.com/decisions
 * Testing
 * Time
 * Project Management
+
+# the community
+
+* [Cleanliness](https://nilenso.com/clean)
+* [IN/Clojure](http://inclojure.org)
+* [Koljure](https://www.meetup.com/Koljure)
+* [Atmos](http://graphs.urbansciences.in/dashboard/db/atmos-pm25-data?panelId=7&fullscreen&from=1552734293258&to=1552820693258)
+* [ClojureBridge Bangalore](https://clojurebridge.org)
