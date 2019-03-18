@@ -37,7 +37,7 @@ Here are some stuff that you should install if you are using Mac for the first t
 * [Spectacle](https://www.spectacleapp.com) -- for window management
 * [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager) -- clipboard manager
 * [Caffeine](http://lightheadsw.com/caffeine) -- keep you mac awake
-* [Dash] (https://kapeli.com/dash) -- offline searchable programming docs
+* [Dash](https://kapeli.com/dash) -- offline searchable programming docs
 * [Display menu](http://displaymenu.milchimgemuesefach.de) -- display menu in your menu bar
 * [Flux](https://justgetflux.com) -- work late nights for the man without damaging your eyes
 * [Zotero](https://www.zotero.org/download) -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
