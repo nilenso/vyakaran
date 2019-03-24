@@ -15,7 +15,7 @@ https://nilenso.com/decisions
 
 ### learning
 
-* Readme
+* [Readme](readme/README.md)
 * Configuration
 * Branching
 * Migration
