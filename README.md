@@ -20,10 +20,9 @@ https://nilenso.com/decisions
 * [Branching](branching/BRANCHING.md)
 * [Migration](migrations/MIGRATIONS.md)
 * Deployment
-* Domain
+* [Domain](domain/DOMAIN.md)
 * [Testing](testing/TESTING.md)
-* Refactoring
-* Testing
+* [Refactoring](refactoring/REFACTORING.md)
 * Time
 * [Project Management](project-management/project-management.md)
 
