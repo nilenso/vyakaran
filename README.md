@@ -29,8 +29,8 @@ https://nilenso.com/decisions
 
 ### being remote
 
-* [Principles](remote/principles.org)
-* [Practices](remote/practices.org)
+* [Principles](remote/principles.md)
+* [Practices](remote/practices.md)
 
 ### utilities for Mac (OS X)
 
