@@ -23,7 +23,7 @@ https://nilenso.com/decisions
 * [Domain](domain/DOMAIN.md)
 * [Testing](testing/TESTING.md)
 * [Refactoring](refactoring/REFACTORING.md)
-* Time
+* [Time](time/SHUNKAN.md)
 * [Project Management](project-management/project-management.md)
 
 ### being remote
