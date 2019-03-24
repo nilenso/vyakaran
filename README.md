@@ -16,9 +16,9 @@ https://nilenso.com/decisions
 ### learning
 
 * [Readme](readme/README.md)
-* Configuration
-* Branching
-* Migration
+* [Configuration](configuration/CONFIGURATION.md)
+* [Branching](branching/BRANCHING.md)
+* [Migration](migrations/MIGRATIONS.md)
 * Deployment
 * Domain
 * [Testing](testing/TESTING.md)
