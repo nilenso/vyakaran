@@ -27,6 +27,11 @@ https://nilenso.com/decisions
 * Time
 * [Project Management](project-management/project-management.md)
 
+### being remote
+
+* [Principles](remote/principles.org)
+* [Practices](remote/practices.org)
+
 ### utilities for Mac (OS X)
 
 Here are some stuff that you should install if you are using Mac for the first time.
@@ -42,7 +47,7 @@ Here are some stuff that you should install if you are using Mac for the first t
 * [Flux](https://justgetflux.com) – work late nights for the man without damaging your eyes
 * [Zotero](https://www.zotero.org/download) – Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
 
-### the community
+## the community
 
 * [Cleanliness](https://nilenso.com/clean)
 * [IN/Clojure](http://inclojure.org)
