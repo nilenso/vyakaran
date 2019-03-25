@@ -15,6 +15,7 @@ the same object i.e. seat. The domains differ because the contexts differ.
 - how is good OOP different from FP?
   - prefer fine-grained abstraction pushed to "leaf nodes" of the object hierarchy
   - avoid highly generic constructs
+  - objects are better thought of as Procedural Data Abstraction i.e. late-bound behavioral specialization triggered by receipt of a message through its public API. This is why it inter-object communication message needs to be as emphasized as the objects themselves.
 
 - [tbd - domain-v-model.jpg]
 
