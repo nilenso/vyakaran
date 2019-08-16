@@ -33,3 +33,8 @@ As the default, we should get tables, laptops, chairs, peripherals from the list
 * [Flux](https://justgetflux.com/) -- work late nights for the man without damaging your eyes
 * [Zotero](https://www.zotero.org/download/) -- helps manage bibliography and citations, pretty useful if you want to read/write papers
 
+### Git support for pairing
+
+* [git-duet](https://github.com/git-duet/git-duet) can be used to coauthor git commits
+* [https://help.github.com/articles/creating-a-commit-with-multiple-authors/](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
+
