@@ -1,4 +1,4 @@
-# \[WIP\] Workstation
+# Workstation
 
 This article is a work in progress. Please help by contributing to this article. Do mention changes on the ~operations Relay channel.
 
@@ -19,4 +19,17 @@ As the default, we should get tables, laptops, chairs, peripherals from the list
 * monitor
 * cables
 * headphones
+
+### Utilities for Mac
+
+* [MacPass](https://github.com/MacPass/MacPass) -- KeyPass client for Mac
+* [iTerm](https://www.iterm2.com/) -- better terminal
+* [HomeBrew](https://brew.sh/) -- package manager
+* [Spectacle](https://www.spectacleapp.com/) -- for window management
+* [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/) -- clipboard manager
+* [Caffeine](http://lightheadsw.com/caffeine/) -- keep your mac awake
+* [Dash](https://kapeli.com/dash) -- offline searchable programming docs
+* [Display menu](http://displaymenu.milchimgemuesefach.de/) -- display menu in your menu bar
+* [Flux](https://justgetflux.com/) -- work late nights for the man without damaging your eyes
+* [Zotero](https://www.zotero.org/download/) -- helps manage bibliography and citations, pretty useful if you want to read/write papers
 

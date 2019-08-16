@@ -12,7 +12,7 @@
   * [Koljure](people/community/koljure.md)
 * [Daily schedule](people/daily-schedule.md)
 * [Leaves](people/leaves.md)
-* [\[WIP\] Workstation](people/wip-workstation.md)
+* [Workstation](people/wip-workstation.md)
 
 ## PROCESS
 
