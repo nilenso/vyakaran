@@ -1,7 +1,7 @@
 # Expenses
 
 {% hint style="info" %}
-Ref: [Expense account policy](https://app.gitbook.com/@nilenso/s/playbook/~/edit/drafts/-LlF1l1IVjLjKpmIF5fu/policy/expense-account)
+Ref: [Expense account policy](https://app.gitbook.com/@nilenso/s/playbook/policy/expense-account)
 {% endhint %}
 
 ### Making a purchase <a id="making-a-purchase"></a>
