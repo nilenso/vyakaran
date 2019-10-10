@@ -18,6 +18,7 @@
 
 * [Members](process/company/README.md)
   * [Expenses](process/company/expenses.md)
+  * [Leaves](process/company/leaves.md)
   * [On and offboarding](process/company/onboarding.md)
   * [Reimbursements](process/company/reimbursements.md)
   * [\[TBD\] Growth](process/company/tbd-growth.md)
