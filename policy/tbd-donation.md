@@ -1,4 +1,4 @@
-# \[TBD\] Donation matching
+# Donation matching
 
 
 

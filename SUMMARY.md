@@ -53,7 +53,7 @@
 ## POLICY
 
 * [Anti-harrassment](policy/anti-harrassment-policy.md)
-* [\[TBD\] Donation matching](policy/tbd-donation.md)
+* [Donation matching](policy/tbd-donation.md)
 * [Disability](policy/disability-policy.md)
 * [Expense account](policy/expense-account.md)
 * [Insurance](policy/insurance.md)
