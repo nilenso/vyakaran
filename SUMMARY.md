@@ -19,6 +19,7 @@
 * [Project Management](process/project-management.md)
 * [Members](process/company/README.md)
   * [On and offboarding](process/company/onboarding.md)
+  * [Reimbursements](process/company/reimbursements.md)
   * [\[TBD\] Growth](process/company/tbd-growth.md)
 * [Engineering](process/engineering/README.md)
   * [Reading material](process/engineering/reading-material.md)
