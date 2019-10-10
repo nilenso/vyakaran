@@ -2,6 +2,10 @@
 
 nilenso offers a total of 33 days off in a calendar year
 
+{% hint style="info" %}
+Don't forget to log your leaves https://app.gitbook.com/@nilenso/s/playbook/~/edit/drafts/-LlFmvCTSaQxLVqNvQB8/process/taking-leaves
+{% endhint %}
+
 ### Statutory holidays
 
 There are 5 statutory holidays, during which the office will remain closed.
