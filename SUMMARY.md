@@ -16,8 +16,8 @@
 
 ## PROCESS
 
-* [Project Management](process/project-management.md)
 * [Members](process/company/README.md)
+  * [Expenses](process/company/expenses.md)
   * [On and offboarding](process/company/onboarding.md)
   * [Reimbursements](process/company/reimbursements.md)
   * [\[TBD\] Growth](process/company/tbd-growth.md)
