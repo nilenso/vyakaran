@@ -63,6 +63,7 @@
 * [POSH](policy/untitled.md)
 * [Remote](policy/remote.md)
 * [\[TBD\] Sabbatical](policy/tbd-sabbatical-policy.md)
+* [Travel](policy/travel.md)
 
 ## Paperwork
 
