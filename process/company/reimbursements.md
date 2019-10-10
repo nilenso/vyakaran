@@ -26,7 +26,7 @@ kulu is our internal expense tracking solution. Make sure you have an account on
 
 ### Donations <a id="donations"></a>
 
-* Ref: [Donation matching policy](https://app.gitbook.com/@nilenso/s/playbook/~/edit/drafts/-LlF1l1IVjLjKpmIF5fu/policy/tbd-donation)
+* Ref: [Donation matching policy](https://app.gitbook.com/@nilenso/s/playbook/policy/tbd-donation)
 * Mention "Donation claimed" in the notes section of kulu
 * Amount should be 50% of amount paid
 * Follow the same process otherwise
