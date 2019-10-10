@@ -21,6 +21,7 @@
   * [Leaves](process/company/leaves.md)
   * [On and offboarding](process/company/onboarding.md)
   * [Reimbursements](process/company/reimbursements.md)
+  * [Reviews](process/company/reviews.md)
   * [\[TBD\] Growth](process/company/tbd-growth.md)
 * [Engineering](process/engineering/README.md)
   * [Reading material](process/engineering/reading-material.md)
