@@ -11,7 +11,6 @@
   * [IN/Clojure](people/community/in-clojure.md)
   * [Koljure](people/community/koljure.md)
 * [Daily schedule](people/daily-schedule.md)
-* [Leaves](people/leaves.md)
 * [Workstation](people/wip-workstation.md)
 
 ## PROCESS
@@ -58,7 +57,7 @@
 * [Expense account](policy/expense-account.md)
 * [Insurance](policy/insurance.md)
 * [Learning and conferences](policy/learning.md)
-* [Menstrual leave](policy/menstrual-leave.md)
+* [Leaves](policy/leaves.md)
 * [Parental leave](policy/parental-leave.md)
 * [POSH](policy/untitled.md)
 * [Remote](policy/remote.md)

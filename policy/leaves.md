@@ -20,6 +20,14 @@ There are 5 statutory holidays, during which the office will remain closed.
 
 The remaining 28 days can be taken off as needed.
 
+### Menstrual leave
+
+nilenso offers paid menstrual leave for anyone who needs it, no questions asked.
+
+{% hint style="info" %}
+Read more on [https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/)
+{% endhint %}
+
 ### Very sick leave
 
 Serious illness is not considered as leave.
