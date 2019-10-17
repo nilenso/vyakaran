@@ -40,7 +40,6 @@
   * [Project kickoff \(inception\)](process/project-management-1/iterative-planning-meeting.md)
   * [Projections \(estimations\)](process/project-management-1/inception.md)
   * [Iteration Planning Meetings \(IPMs\)](process/project-management-1/iteration-planning-meetings-ipms.md)
-  * [\[TBD\] Running a project](process/project-management-1/tbd-running-a-project.md)
 
 ## PLACE
 
