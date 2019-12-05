@@ -15,7 +15,8 @@
 
 ## PROCESS
 
-* [Members](process/company/README.md)
+* [Company](process/company/README.md)
+  * [Hiring](process/company/hiring.md)
   * [Expenses](process/company/expenses.md)
   * [Leaves](process/company/leaves.md)
   * [On and offboarding](process/company/onboarding.md)
@@ -69,4 +70,3 @@
 * [Employment document template](paperwork/employment-document-template.md)
 * [Experience letter template](paperwork/experience-letter-template.md)
 * [LLP template](paperwork/untitled.md)
-
