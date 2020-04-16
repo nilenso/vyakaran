@@ -1,5 +1,9 @@
 # Information for employees
 
+{% hint style="warning" %}
+Current status: work from home till further notice.
+{% endhint %}
+
 ### **Emergency response**
 
 Due to the escalating urgency of this situation, we are requesting that you all follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely. We will keep you updated regarding any changes.

@@ -1,5 +1,9 @@
 # Information for clients
 
+{% hint style="warning" %}
+Current status: work from home till further notice.
+{% endhint %}
+
 ### Emergency response
 
 As of March 2020, that we have decided to adopt the following health measures at nilenso in response to the escalating situation around COVID-19. 
