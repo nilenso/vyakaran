@@ -71,3 +71,8 @@
 * [Experience letter template](paperwork/experience-letter-template.md)
 * [LLP template](paperwork/untitled.md)
 
+## Health and Safety
+
+* [Information for clients](health-and-safety/information-for-clients.md)
+* [Information for employees](information-for-employees.md)
+
