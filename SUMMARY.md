@@ -74,5 +74,5 @@
 ## Health and Safety
 
 * [Information for clients](health-and-safety/information-for-clients.md)
-* [Information for employees](information-for-employees.md)
+* [Information for employees](health-and-safety/information-for-employees.md)
 
