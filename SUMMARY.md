@@ -41,8 +41,6 @@
   * [Projections \(estimations\)](process/project-management-1/inception.md)
   * [Iteration Planning Meetings \(IPMs\)](process/project-management-1/iteration-planning-meetings-ipms.md)
 
-## PLACE
-
 ## POLICY
 
 * [Anti-harrassment](policy/anti-harrassment-policy.md)
