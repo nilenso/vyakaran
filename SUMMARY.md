@@ -43,11 +43,6 @@
 
 ## PLACE
 
-* [Cleanliness](place/cleanliness/README.md)
-  * [Air quality](place/cleanliness/air-quality.md)
-  * [Waste management](place/cleanliness/untitled.md)
-  * [Composting](place/cleanliness/untitled-1.md)
-
 ## POLICY
 
 * [Anti-harrassment](policy/anti-harrassment-policy.md)
@@ -79,4 +74,9 @@
 
 * [Workstation](in-the-office/workstation.md)
 * [Library](in-the-office/library.md)
+* [Pantry](in-the-office/pantry.md)
+* [Cleanliness](in-the-office/cleanliness/README.md)
+  * [Waste management](in-the-office/cleanliness/untitled/README.md)
+    * [Composting](in-the-office/cleanliness/untitled/untitled-1.md)
+  * [Air quality](in-the-office/cleanliness/air-quality.md)
 
