@@ -11,7 +11,6 @@
   * [IN/Clojure](people/community/in-clojure.md)
   * [Koljure](people/community/koljure.md)
 * [Daily schedule](people/daily-schedule.md)
-* [Workstation](people/wip-workstation.md)
 
 ## PROCESS
 
@@ -66,13 +65,18 @@
 
 ## Paperwork
 
-* [Agreement template](paperwork/agreement-template.md)
-* [Employment document template](paperwork/employment-document-template.md)
-* [Experience letter template](paperwork/experience-letter-template.md)
-* [LLP template](paperwork/untitled.md)
+* [Consulting agreement](paperwork/agreement-template.md)
+* [Offer letter](paperwork/employment-document-template.md)
+* [Experience letter](paperwork/experience-letter-template.md)
+* [LLP agreement](paperwork/untitled.md)
 
 ## Health and Safety
 
 * [Information for clients](health-and-safety/information-for-clients.md)
 * [Information for employees](health-and-safety/information-for-employees.md)
+
+## IN THE OFFICE
+
+* [Workstation](in-the-office/wip-workstation.md)
+* [Untitled](in-the-office/untitled.md)
 

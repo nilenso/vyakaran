@@ -1,6 +1,6 @@
-# Employment document template
+# Offer letter
 
-**&lt;Today's date&gt;**
+**&lt;Date&gt;**
 
 **&lt;Name and address&gt;**  
 
@@ -8,7 +8,7 @@
 Dear **&lt;Name&gt;**,  
 
 
-We are pleased to offer you the post of &lt;Role&gt; subject the following terms and conditions:
+We are pleased to offer you the post of **&lt;Role&gt;** subject the following terms and conditions:
 
 Your appointment will be effective from **&lt;Appointment date&gt;**.
 
