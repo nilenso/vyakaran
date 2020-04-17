@@ -77,6 +77,6 @@
 
 ## IN THE OFFICE
 
-* [Workstation](in-the-office/wip-workstation.md)
+* [Workstation](in-the-office/workstation.md)
 * [Untitled](in-the-office/untitled.md)
 
