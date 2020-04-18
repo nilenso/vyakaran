@@ -1,4 +1,4 @@
-# Disability
+# Disability support
 
 *  Any person who is injured and becomes permanently physically disabled while employed at nilenso gets 12 months salary \(as per last month paid\) to figure out their role \(same or different\) at nilenso or elsewhere.
 *  Post 12 months, we will "recalibrate" based on what the person decides.

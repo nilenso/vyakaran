@@ -1,4 +1,4 @@
-# POSH
+# Prevention Of Sexual Harassment
 
 ### Introduction
 
@@ -95,29 +95,6 @@ II. The complaint must be given to the persons specified above within 3 months o
 If the complainant cannot make a written complaint because of physical or mental incapacity or death, their legal heirs can make the complaint on their behalf.
 
 An Internal Complaints Committee is constituted for our organization by the management to look into matters concerning sexual harassment.
-
-{% hint style="info" %}
-### The Committee consists of the following persons
-
-
-
-#### President
-
-* Deepa Venkatraman
-
-#### Members
-
-* Nivedita Priyadarshini
-* Jyothsna Anand
-* Srihari Sriraman
-* Abhik Kanra
-
-#### External members
-
-* TBD
-{% endhint %}
-
-
 
 The President and other members of the committee shall hold office for such period, not exceeding three years, from the date of their nomination as may be specified by the employer.
 

@@ -1,10 +1,10 @@
-# Hiring
+# Coordinating interviews
 
 ## Process
 
-Two people from the company are responsible for hiring process at a time at nilenso. These two people are chosen on a volunteer basis every month or so and referred to as Hiring Owners.
+At any given point of time, two people from the company are responsible for managing hiring. These two people are chosen on a volunteer basis every month or so and referred to as Hiring Owners.
 
-**The responsibilities of the selected pair are to:** 
+**The responsibilities of the Hiring Owners are to:** 
 
 1. Be the first responders to any hiring mail that comes to careers@nilenso.com \(sometimes these mails may also come to hello@n or moshimoshi@n\). 
 

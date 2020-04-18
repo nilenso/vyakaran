@@ -16,6 +16,10 @@ There are 5 statutory holidays, during which the office will remain closed.
 * Gandhi Jayanti \(Oct 2nd\) and 
 * Rajyotsava \(Nov 1st\) 
 
+### Parental leave
+
+We believe parenting is a joy and a responsibility that should be shared by all parents. Anyone welcoming a newborn is offered 6 months paid and a further 6 months unpaid leave.
+
 ### Vacation or sick leave
 
 The remaining 28 days can be taken off as needed.

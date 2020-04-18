@@ -1,4 +1,4 @@
-# Daily schedule
+# Ideal schedule
 
 ### Guideline
 

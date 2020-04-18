@@ -1,4 +1,4 @@
-# Remote
+# Being remote
 
 ### Principles
 

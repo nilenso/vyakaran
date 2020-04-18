@@ -1,4 +1,4 @@
-# Leaves
+# Taking leave
 
 * Send an e-mail to your client \(This should be discussed as early as possible\)
 * Send an e-mail to leaves@nilenso.com
