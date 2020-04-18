@@ -1,6 +1,6 @@
 # Information for clients
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Current status: work from home till further notice.
 {% endhint %}
 

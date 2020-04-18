@@ -1,5 +1,7 @@
 # Reviews
 
+{% embed url="https://blog.nilenso.com/blog/2015/06/30/how-to-co-op-salaries-reviews" %}
+
 ### Annual reviews <a id="annual-reviews"></a>
 
 * Typically held in March 
@@ -16,7 +18,7 @@
 
 * Try to write reviews for everyone if possible
 * Definitely write reviews for people you have worked with closely
-* Ideally, nothing in the review is a surprise to the reviewee.
+* Ideally, nothing in the review is a surprise to the reviewee
 * There is a short discussion \(~30 minutes per person\), which happens across two days
 
 We often recommend the **retrospective starfish model** for giving feedback. Basically think in terms of what someone should
