@@ -4,13 +4,13 @@
 Current status: accepting applications from women/LGBTQ for our [2020 internship programme](https://nilenso.com/internship.html) \(fully remote\).
 {% endhint %}
 
-Duration: 6 weeks
+**Duration**: 6 weeks
 
-Stipend: INR 40k
+**Stipend**: INR 40k
 
-Work in: Clojure \(no prior Clojure experience needed\)
+**Stack**: Clojure \(no prior Clojure experience needed\)
 
-Certificate: Experience letter on company letterhead
+**Certificate**: experience letter on company letterhead
 
-Reviews: End of internship
+**Reviews**: at the end of the internship
 

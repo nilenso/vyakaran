@@ -29,9 +29,10 @@ We want to equip you so you can be effective and comfortable while working from 
 
 To re-emphasize the best practices around remote work,
 
-* Please try to have work / life separation, in whatever way that is achievable. A work-only room or desk is ideal. A separate machine for work would be great, but if nothing else, have a work profile on your laptop that you only use for work. Please don't work from your bed! It's terrible posture, and isn't great for your mental well being either.
+* Please try to create work / life separation in whatever way that is achievable. A work-only room or desk is ideal. A separate machine for work would be great, but if nothing else, have a work profile on your laptop that you only use for work. Please don't work from your bed! It's terrible posture, and isn't great for your mental well being either.
+* Have a reasonable schedule and stick to it \(trust us, it helps\).
 * Take regular breaks to stretch, hydrate and just chill out.
-* Don't work all the time! Make time for leisure activities.
+* Don't work all day! Make time for leisure activities.
 * Communicate extensively on Slack. Let your colleagues and clients know when you're starting work, taking breaks, signing off for the day and about outages or other disruptions to work.
 * Communicate over video chat where possible to stay connected.
 
@@ -45,11 +46,11 @@ Our weekly standups are on as always.
 
 Lastly, everyone is different. There's a lot you're dealing with right now. Cut yourself some slack if you're not as productive as you'd like to be. 
 
-if you are unwell, please get the medical attention and rest that you need. If you need to take time off for yourself or to care for someone, please do so without any hesitation. Nothing is more important than your health and the health of your loved ones.
+If you are unwell, please get the medical attention and rest that you need. If you need to take time off for yourself or to care for someone, please do so without any hesitation. Nothing is more important than your health and the health of your loved ones.
 
 We will be sending out an update to all of our clients to let them know about our COVID response policy.  
   
-If you have any concerns, please reach out to Deepa, Ravi or Srihari over email or phone.
+If you have any concerns, please reach out to Deepa, Ravi or Srihari over Slack, email or phone.
 
 
 
