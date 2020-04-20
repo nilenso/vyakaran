@@ -15,7 +15,7 @@ The default specs for the hardware are mentioned below. We tend to upgrade when 
 
 ### Desk and chair
 
-Our desks are custom-made to suit different height requirements. We also have standing desks in the office if you prefer. Please ensure that the minimum and maximum desk heights are to your comfort.
+Our desks are custom-made to suit different height requirements. We also have Haworth standing desks in the office if you prefer. Please ensure that the minimum and maximum desk heights are to your comfort.
 
 Our chairs are fully adjustable and from either Featherlite or Haworth.
 
@@ -31,17 +31,22 @@ Don't forget to get spare chargers and adapters when buying new laptops.
   * 32GB,DDR4-2666MHz SDRAM, 2 DIMMS
   * Radeon Pro WX 3200 w/4GB GDDR5
 
-### Keyboard, wrist rest and mouse
+### Keyboard and wrist rest
 
-* [Cooler Master MK730 Tenkeyless Gaming Mechanical Keyboard](https://www.amazon.ca/dp/B07N4D7S6F)
+* [Cooler Master MK730](https://www.coolermaster.com/catalog/peripheral/keyboards/mk730/)
 * [Das Keyboard 4 Professional for Mac](https://shop.daskeyboard.com/collections/all-mechanical-keyboards/products/das-keyboard-4-professional-for-mac?variant=1168670496)
-* [Filco Majestouch Convertible 2 Mechanical Keyboard](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3901)
-* [3M Gel Wrist Rest](https://www.amazon.com/3M-Leatherette-Antimicrobial-Protection-WR309LE/dp/B000X4WCJU)
-* [Logitech G90 Optical Gaming Mouse](https://www.amazon.in/Logitech-G90-Optical-Gaming-Mouse/dp/B00NFCD6Q0)
+* [Filco Majestouch Convertible 2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3901)
+* [Kinesis Advantage2](https://kinesis-ergo.com/shop/advantage2/)
+* [3M Gel wrist rest](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Gel-Wrist-Rest-for-Keyboard-with-Leatherette-Cover-and-Antimicrobial-Product-Protection-WR310LE/?N=5002385+3294308054&rt=rud)
+
+### Mouse
+
+* [Logitech G90](https://www.logitechg.com/en-in/products/gaming-mice/g90-optical-gaming-mouse.html)
+* [Roccat Lua](https://en.roccat.org/Mice/Lua) 
 
 ### Monitor
 
-* [Dell U2415 Ultra Sharp Monitor](https://www.amazon.in/Dell-U2415-24-inch-UltraSharp-Monitor/dp/B00NZTKOQI)
+* [Dell U2415 Ultra Sharp](https://www.amazon.in/Dell-U2415-24-inch-UltraSharp-Monitor/dp/B00NZTKOQI)
 * Dell P2719HC
 * LG UK850 4K
 * [Samsung 24h850 2K](https://www.samsung.com/uk/monitors/monitor-s24h850-ls24h850qfuxen/)
@@ -56,7 +61,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 ### Headphone
 
 * Bose Quiet Comfort 35 II Wireless for good noise cancellation
-* Beyerdynamic DT 880 for comfort
+* Beyerdynamic DT 770 for comfort
 
 ### Utilities for Mac
 
@@ -73,6 +78,6 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 ### Git support for pairing
 
-* [git-duet](https://github.com/git-duet/git-duet) can be used to coauthor git commits
+* [git-duet](https://github.com/git-duet/git-duet) to coauthor git commits
 * [https://help.github.com/articles/creating-a-commit-with-multiple-authors/](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
 
