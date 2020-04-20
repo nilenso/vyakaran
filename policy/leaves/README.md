@@ -1,46 +1,112 @@
 # Leaves
 
-nilenso offers a total of 33 days off in a calendar year
-
 {% hint style="info" %}
-Don't forget to [log your leaves](https://app.gitbook.com/@nilenso/s/playbook/process/company/leaves)
+Don't forget to let your clients and colleagues know that you're [taking leave](https://app.gitbook.com/@nilenso/s/playbook/~/drafts/-M5OQ_ug3Ov4kMNxiX5N/policy/leaves/taking-leave)
 {% endhint %}
 
-### Statutory holidays
-
-There are 5 statutory holidays, during which the office will remain closed.
-
-* Republic Day \(Jan 26th\), 
-* Labour Day \(May 1st\),
-* Independence Day \(Aug 15th\), 
-* Gandhi Jayanti \(Oct 2nd\) and 
-* Rajyotsava \(Nov 1st\) 
-
-### Parental leave
-
-We believe parenting is a joy and a responsibility that should be shared by all parents. Anyone welcoming a newborn is offered 6 months paid and a further 6 months unpaid leave.
-
-### Vacation or sick leave
-
-The remaining 28 days can be taken off as needed.
-
-### Menstrual leave
-
-nilenso offers paid menstrual leave for anyone who needs it, no questions asked.
-
-{% hint style="info" %}
-Read more on [https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/)
-{% endhint %}
-
-### Very sick leave
-
-Serious illness is not considered as leave.
-
-### Unpaid leave
-
-Unpaid leave is available during the year if required. Salary deducted will be calculated based on number of calendar days \(not working days\) in the month of the leaves.
-
-### Borrowing future leaves
-
-We know that important personal events require extended periods of time off from work, but can be trying. Rather than taking unpaid leave, up to 10 leaves can be "borrowed" from the next calendar year if required.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Regular paid time off</b>
+      </th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Statutory leaves</b>
+        </p>
+        <p>The office will be closed on the following 5 days every year.</p>
+        <ul>
+          <li>26 Jan: Republic Day</li>
+          <li>01 May: Labour Day</li>
+          <li>15 Aug: Independence Day</li>
+          <li>02 Oct: Gandhi Jayanti</li>
+          <li>01 Nov: Rajyotsava</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Discretionary time off</b>
+        </p>
+        <p>In addition to statutory holidays, we offer 28 days of paid leave that
+          can be taken as needed.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Additional paid time off</b>
+      </th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Menstrual leave</b>
+        </p>
+        <p>nilenso offers paid menstrual leave that does not count as &quot;Paid
+          time off&quot; above for anyone who needs it, no questions asked.</p>
+        <p>Read more on <a href="https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/">https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/</a>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Parental leave</b>
+        </p>
+        <p>We believe that parenting is a joy and a responsibility that should be
+          shared by all parents. <em><b>Anyone</b></em> welcoming a newborn is offered
+          6 months paid and a further 6 months unpaid leave.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Very sick leave</b>
+        </p>
+        <p>Time off for serious illness such as dengue etc. does not count as leave.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Other time off</b>
+      </th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Borrowing future leaves</b>
+        </p>
+        <p>We know that important personal events require extended periods of time
+          off from work, but do not always involve relaxation and rejuvenation. Rather
+          than taking unpaid leave, up to 10 leaves can be &quot;borrowed&quot; from
+          the next calendar year.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Additional unpaid leave</b>
+        </p>
+        <p>Additional unpaid leave is available during the year if required. The
+          salary is adjusted prorata based on number of calendar days of additional
+          leaves taken.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
