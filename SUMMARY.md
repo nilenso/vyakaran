@@ -66,7 +66,7 @@
 
 * [Anti-harrassment](health-and-safety/anti-harrassment-policy.md)
 * [Prevention Of Sexual Harassment](health-and-safety/prevention-of-sexual-harassment.md)
-* [Medical insurance](health-and-safety/medical-insurance.md)
+* [Medical cover](health-and-safety/medical-insurance.md)
 * [Disability support](health-and-safety/disability-support.md)
 * [COVID emergency response](health-and-safety/covid-emergency-response/README.md)
   * [Information for clients](health-and-safety/covid-emergency-response/information-for-clients.md)

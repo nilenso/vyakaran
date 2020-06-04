@@ -38,7 +38,9 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Additional paid time off</b>
@@ -77,7 +79,9 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Other time off</b>
@@ -109,4 +113,6 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
     </tr>
   </tbody>
 </table>
+
+
 

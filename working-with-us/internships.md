@@ -1,7 +1,7 @@
 # Internships
 
 {% hint style="success" %}
-Current status: accepting applications from women/LGBTQ for our [2020 internship programme](https://nilenso.com/internship.html) \(fully remote\).
+Current status: evaluating applications received for our fully remote [internship programme](https://nilenso.com/internship.html) for women/LGBTQ.
 {% endhint %}
 
 **Duration**: 6 weeks
