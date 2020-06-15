@@ -4,9 +4,15 @@ Multiple copies of these books are available in the nilenso library. Please feel
 
 ## Being a good programmer
 
-* A Pattern Language
-* The Pragmatic Programmer
-* Structure and Interpretation of Computer Programs
+* [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+
+## Backend Developer
+
+* Broad topics to cover: [https://roadmap.sh/backend](https://roadmap.sh/backend)
+* [Java Concurrency in Practice](https://jcip.net/)
+* [PostgreSQL Exercises](https://pgexercises.com/) -- a good set of exercises to help you learn about [postgresql](https://www.postgresql.org/)
 
 ## Clojure
 
@@ -14,10 +20,11 @@ Multiple copies of these books are available in the nilenso library. Please feel
 * [Clojure for the Brave and True](https://www.braveclojure.com/)
 * [Clojure from Ground Up](https://aphyr.com/tags/Clojure-from-the-ground-up%20)
 * [Clojure Do's and Dont's](https://stuartsierra.com/tag/dos-and-donts)
+* [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
 
 ## Testing
 
-* Working Effectively with Unit Tests
+* [Working Effectively with Unit Tests](https://leanpub.com/wewut/read)
 * [https://jstesting.jcoglan.com](https://jstesting.jcoglan.com) is a great resource to learn about testing
 
 ## Object Oriented Design
