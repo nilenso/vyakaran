@@ -23,8 +23,6 @@
 * [Communication](process/communication.md)
 * [Engineering](process/engineering/README.md)
   * [Reading material](process/engineering/reading-material.md)
-  * [Guidelines](process/engineering/guidelines.md)
-  * [Utilities](process/engineering/untitled.md)
   * [Code Reviews](process/engineering/code-reviews.md)
   * [When is a project done?](process/engineering/when-is-a-project-done.md)
 * [Project Management](process/project-management/README.md)

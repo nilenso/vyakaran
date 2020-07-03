@@ -23,13 +23,13 @@ Our chairs are fully adjustable and from either Featherlite or Haworth.
 
 Don't forget to get spare chargers and adapters when buying new laptops.
 
-* 15" MacBook Pro 
-  * Or the 16" MacBook if QA issues have been put to rest
-* 15.6" Dell Precision 7540 CTO Base
-  * Intel Core i7-9750H, 6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W
-  * 15.6" FHD/UHD Non-touch, IR Cam/Mic Bezel
-  * 32GB,DDR4-2666MHz SDRAM, 2 DIMMS
-  * Radeon Pro WX 3200 w/4GB GDDR5
+* `15"` MacBook Pro 
+  * Or the `16"` MacBook if QA issues have been put to rest
+* `15.6"` Dell Precision `7540` CTO Base
+  * `Intel Core i7-9750H, 6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W`
+  * `15.6" FHD/UHD Non-touch, IR Cam/Mic Bezel`
+  * `32GB, DDR4-2666MHz SDRAM, 2 DIMMS`
+  * `Radeon Pro WX 3200 w/4GB GDDR5`
 
 ### Keyboard and wrist rest
 
@@ -65,19 +65,19 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 ### Utilities for Mac
 
-* [MacPass](https://github.com/MacPass/MacPass) -- KeyPass client for Mac
-* [iTerm](https://www.iterm2.com/) -- better terminal
-* [HomeBrew](https://brew.sh/) -- package manager
-* [Spectacle](https://www.spectacleapp.com/) -- for window management
-* [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/) -- clipboard manager
-* [Caffeine](http://lightheadsw.com/caffeine/) -- keep your mac awake
-* [Dash](https://kapeli.com/dash) -- offline searchable programming docs
-* [Display menu](http://displaymenu.milchimgemuesefach.de/) -- display menu in your menu bar
-* [Flux](https://justgetflux.com/) -- work late nights for the man without damaging your eyes
-* [Zotero](https://www.zotero.org/download/) -- helps manage bibliography and citations, pretty useful if you want to read/write papers
+* [MacPass](https://github.com/MacPass/MacPass): KeyPass Client for Mac
+* [iTerm](https://www.iterm2.com/): Better Terminal
+* [HomeBrew](https://brew.sh/): Package manager
+* [Spectacle](https://www.spectacleapp.com/): Sort-of tiling window management
+* [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/): Clipboard manager
+* [Caffeine](http://lightheadsw.com/caffeine/): Keep you mac awake
+* [Dash](https://kapeli.com/dash): Offline searchable programming docs
+* [Display menu](http://displaymenu.milchimgemuesefach.de/): Display menu in your menu bar
+* [Zotero](https://www.zotero.org/download/): Helps manage bibliography and citations, pretty helpful if you want to read/write papers
+* [Trailer](http://ptsochantaris.github.io/trailer): GitHub notifications don't have great discoverability, use this to keep a track of PRs
 
 ### Git support for pairing
 
 * [git-duet](https://github.com/git-duet/git-duet) to coauthor git commits
-* [https://help.github.com/articles/creating-a-commit-with-multiple-authors/](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
+* [https://help.github.com/articles/creating-a-commit-with-multiple-authors](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
 
