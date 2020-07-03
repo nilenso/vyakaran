@@ -42,7 +42,7 @@ The idea is not just to have flowery language. The idea is to create an environm
 * Be mindful of not treating certain closer teammates with positivity and others with not so much. 
 * If your review is cut short due to time or lack of bandwidth. Call that out explicitly so that the author isn’t left hanging wondering on what order of depth they should consider your review.
 
-**As an author**
+#### **As an author**
 
 Respond to your review in a timely fashion to allow for new cycles. Use something like [Trailer](http://ptsochantaris.github.io/trailer) to keep a track of notifications. Don’t just accept the feedback and change your code. Work through the trade-offs and explain advantages of your approach wherever possible. In times of conflict, apply [this](https://google.github.io/eng-practices/review/reviewer/standard.html#conflicts).
 
