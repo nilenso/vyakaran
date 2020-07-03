@@ -8,9 +8,10 @@ Chat is the primary mode of communication at nilenso
 
 * general is for important company-wide announcements that everyone needs to see
 * finance is for important finance-related announcements
+* sales is for discussing sales leads including existing client's contractual changes
 * operations is for day-to-day discussions about the office
 * space is for discussions relating to the physical office -- what needs to be bought, disposed of, repaired, cared for
-* wfh-leaves-oo is self explanatory, and is for when you're working from home, or out of the office
+* wfh-leaves-ooo is self explanatory, and is for when you're working from home, or out of the office
 * sundry is for everything else, don't post anything important here!
 * if you're unsure where a message belongs, ask
 
@@ -26,7 +27,7 @@ Chat is the primary mode of communication at nilenso
 #### Formatting
 
 * Format your messages for better readability
-* Relay supports markdown \([https://docs.mattermost.com/help/messaging/formatting-text.html](https://docs.mattermost.com/help/messaging/formatting-text.html)\) though Slack does not. However the fundamental principles of a well-formatted message stay the same
+* Slack supports markdown. The fundamental principles of a well-formatted message stay the same
   * Break up large pieces of content into smaller chunks
   * Visually segregate the chunks with lines or headers \(use title case for headers if appropriate\)
   * Order lists where that makes sense
