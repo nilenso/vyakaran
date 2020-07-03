@@ -24,7 +24,6 @@
 * [Engineering](process/engineering/README.md)
   * [Reading material](process/engineering/reading-material.md)
   * [Guidelines](process/engineering/guidelines.md)
-  * [Readme](process/engineering/readme.md)
   * [Configuration](process/engineering/configuration.md)
   * [Branching](process/engineering/branching.md)
   * [Time](process/engineering/time.md)
