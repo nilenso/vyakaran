@@ -10,7 +10,7 @@ description: >-
 * [iTerm](https://www.iterm2.com/): Better Terminal
 * [HomeBrew](https://brew.sh/): Package manager
 * [Spectacle](https://www.spectacleapp.com/): Sort-of tiling window management
-*  [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/): Clipboard manager
+* [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/): Clipboard manager
 * [Caffeine](http://lightheadsw.com/caffeine/): Keep you mac awake
 * [Dash](https://kapeli.com/dash): Offline searchable programming docs
 * [Display menu](http://displaymenu.milchimgemuesefach.de/): Display menu in your menu bar

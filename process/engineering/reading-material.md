@@ -6,7 +6,7 @@ description: >-
 
 # Reading material
 
-### Being a good programmer
+### Good programmer
 
 * [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/)
@@ -17,11 +17,11 @@ description: >-
 
 * Broad topics to cover: [https://roadmap.sh/backend](https://roadmap.sh/backend)
 * [Java Concurrency in Practice](https://jcip.net/)
-* [PostgreSQL Exercises](https://pgexercises.com/) – a good set of exercises to help you learn about [postgresql](https://www.postgresql.org/)
+* [PostgreSQL Exercises](https://pgexercises.com/): a good set of exercises to help you learn about [postgresql](https://www.postgresql.org/)
 
 ### Clojure
 
-* [4Clojure](http://www.4clojure.com/) -- a good set of exercises to help you learn clojure
+* [4Clojure](http://www.4clojure.com/): a good set of exercises to help you learn clojure
 * [Clojure for the Brave and True](https://www.braveclojure.com/)
 * [Clojure from Ground Up](https://aphyr.com/tags/Clojure-from-the-ground-up%20)
 * [Clojure Do's and Dont's](https://stuartsierra.com/tag/dos-and-donts)
