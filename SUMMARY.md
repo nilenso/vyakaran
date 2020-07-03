@@ -1,6 +1,6 @@
 # Table of contents
 
-* [vyakaran \(the nilenso handbook\)](README.md)
+* [vyakaran: the nilenso handbook](README.md)
 
 ## Working with us
 
