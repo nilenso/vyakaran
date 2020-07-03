@@ -46,18 +46,23 @@ Email is intended for more formal communication. In the interest of transparency
 
 * Offers to candidates
 * Sales discussions / negotiations
-* Summarising personnel-related discussions
+* Summarizing personnel-related discussions
 * Leaves
 * Resignation
 * Long form company-wide messages
 
 #### Tagging
 
-* business@nilenso.com for all important company \(business\) discussions
+* business@nilenso.com for all company communications with clients and vendors
+* finance@nilenso.com for all accounts and finance related communication with CAs, banks, investment companies, auditors etc
+* announcements@nilenso.com for all company-wide announcements \(this is internal and cannot be posted to from outside the organization\)
 * careers@nilenso.com for all hiring related conversations
+* bills@nilenso for forwarding any bills that are spent on the company cards including subscriptions, licenses and one-off payments
+* leaves@nilenso.com for all leave intimations
 * all@nilenso.com if you'd like to send an email to everyone at nilenso
 * \[To come\] hr@nilenso.com for personnel related matters
 * \[To come\] committee@nilenso.com to report harrassment or issues you are facing at nilenso. All communication on this thread will be kept confidential
+* We create other small, temporary groups as and when required. For eg: internships@nilenso.com is used when we run internships.
 
 #### Formatting
 
