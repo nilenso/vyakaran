@@ -8,10 +8,10 @@ description: >-
 
 ### Good programmer
 
-* [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/)
 * [Structure and Interpretation of Computer Program](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+* [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
 
 ### Backend Developer
 

@@ -1,3 +1,7 @@
+---
+description: How is a project usually configured? What constitutes as configuration?
+---
+
 # Configuration
 
 ## The Basics

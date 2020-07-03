@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Everything book](README.md)
+* [vyakaran \(the nilenso handbook\)](README.md)
 
 ## Working with us
 
@@ -31,8 +31,8 @@
   * [Utilities](process/engineering/untitled.md)
   * [When is a project done?](process/engineering/when-is-a-project-done.md)
 * [Project Management](process/project-management/README.md)
-  * [Project kickoff \(inception\)](process/project-management/inception-1.md)
-  * [Projections \(estimations\)](process/project-management/estimations.md)
+  * [Project kickoff](process/project-management/inception-1.md)
+  * [Estimation](process/project-management/estimations.md)
   * [Iteration Planning Meetings \(IPMs\)](process/project-management/iteration-planning-meetings.md)
 
 ## OFFICE
