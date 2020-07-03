@@ -1,6 +1,10 @@
-# Utilities
+---
+description: >-
+  It's worth having these on your machine, and it's worth getting them when
+  you're setting up the first time.
+---
 
-It's worth having these on your machine, and it's worth getting them when you're setting up the first time.
+# Utilities
 
 *  [MacPass](https://github.com/MacPass/MacPass) -- KeyPass Client for Mac
 *  [iTerm](https://www.iterm2.com/) -- Better Terminal
@@ -13,5 +17,5 @@ It's worth having these on your machine, and it's worth getting them when you're
 *  [Flux](https://justgetflux.com/) -- work late nights for the man without damaging your eyes
 *  [Zotero](https://www.zotero.org/download/) -- Helps manage bibliography and citations, pretty helpful if you want to read/write papers.
 
-nilensi pair programs by default. [git-duet](https://github.com/git-duet/git-duet) is a great tool to coauthor git commits \(also see [https://help.github.com/articles/creating-a-commit-with-multiple-authors/](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)\)
+[git-duet](https://github.com/git-duet/git-duet) is a great tool to coauthor git commits \(also [see this](https://help.github.com/articles/creating-a-commit-with-multiple-authors/).\)
 
