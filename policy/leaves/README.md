@@ -1,7 +1,7 @@
 # Leaves
 
 {% hint style="info" %}
-Don't forget to let your clients and colleagues know that you're [taking leave](https://app.gitbook.com/@nilenso/s/playbook/~/drafts/-M5OQ_ug3Ov4kMNxiX5N/policy/leaves/taking-leave)
+Don't forget to let your clients and colleagues know that you're [taking leave](https://vyakaran.nilenso.com/policy/leaves/taking-leave)
 {% endhint %}
 
 <table>
