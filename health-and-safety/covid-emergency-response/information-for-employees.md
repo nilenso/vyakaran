@@ -10,7 +10,7 @@ Due to the escalating urgency of this situation, we are requesting that you all 
 
 ### **Staying updated during this time**
 
-Reliable sources of information include the [The Ministry of Health and Welfare](https://www.mohfw.gov.in/) for India, and the [World Health Organisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [Centre for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html).
+Reliable sources of information include the [The Ministry of Health and Welfare](https://www.mohfw.gov.in/) for India, [BBMP](http://bbmp.gov.in/covid-19) for Bangalore, and the [World Health Organisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [Centre for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html).
 
 ### **Working from home**
 
