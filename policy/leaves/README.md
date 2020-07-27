@@ -114,5 +114,3 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
   </tbody>
 </table>
 
-
-

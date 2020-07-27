@@ -16,7 +16,7 @@ We understand that you may not be comfortable claiming a reimbursement for a med
 
 Medical care is expensive, so all our employees and their family — parents, children and spouses are covered by a comprehensive insurance policy \(this means cashless, all ailments covered, pre-existing conditions included, no bureaucracy policy\), where nilenso pays 100% of the premium.
 
-Any expenses related to medical emergencies that are not covered by insurance our provider \(for instance if your family is outside India\) will be taken care of by nilenso.
+Any expenses related to medical emergencies that are not covered by our insurance provider \(for instance if your family is outside India\) will be taken care of by nilenso.
 
 ### Current insurance policy \(2020\)
 
