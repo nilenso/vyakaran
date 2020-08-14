@@ -1,6 +1,8 @@
 # Offboarding
 
 * Exit interview
+  * Speak to the person about their experience at nilenso and any feedback they have for us
+  * Document a summary of the conversation over email
 * Paperwork
   * Resigning employees should hand over a signed resignation letter including actual date of leaving employment in person and over email, which will be acknowledged by nilenso
   * If an employee’s name is on the LLP agreement, amend the LLP filing form 4 within 30 days of resignation to avoid paying a penalty
