@@ -65,8 +65,12 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
         <p><b>Parental leave</b>
         </p>
         <p>We believe that parenting is a joy and a responsibility that should be
-          shared by all parents. <em><b>Anyone</b></em> welcoming a newborn is offered
-          6 months paid and a further 6 months unpaid leave.</p>
+          shared by all parents. <em><b>Anyone</b></em> (<em>regardless of gender)</em> welcoming
+          a newborn (biological or adopted) is offered 6 months paid and a further
+          6 months unpaid leave.</p>
+        <p>The leave can be taken any time from 6 months before the child is born
+          to when the child is 12 months old (i.e. until the child turns 2 years
+          old).</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
