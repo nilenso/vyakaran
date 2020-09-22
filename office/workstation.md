@@ -60,7 +60,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 ### Headphone
 
-* Bose Quiet Comfort 35 II Wireless for good noise cancellation
+* Sony WH-1000XM4 or Bose Quiet Comfort 35 II Wireless for good noise cancellation
 * Beyerdynamic DT 770 for comfort
 
 ### Utilities for Mac
