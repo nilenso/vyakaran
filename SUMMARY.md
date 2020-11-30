@@ -5,6 +5,7 @@
 ## Working with us
 
 * [Full-time employment](working-with-us/full-time-employment/README.md)
+  * [Interviewing with us](working-with-us/full-time-employment/interviewing-with-us.md)
   * [Coordinating interviews](working-with-us/full-time-employment/coordinating-interviews.md)
 * [Internships](working-with-us/internships.md)
 * [Apprenticeships](working-with-us/apprenticeships.md)
