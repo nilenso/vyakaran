@@ -23,13 +23,13 @@ Our chairs are fully adjustable and from either Featherlite or Haworth.
 
 Don't forget to get spare chargers and adapters when buying new laptops.
 
-* `15"` MacBook Pro 
-  * Or the `16"` MacBook if QA issues have been put to rest
-* `15.6"` Dell Precision `7540` CTO Base
-  * `Intel Core i7-9750H, 6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W`
-  * `15.6" FHD/UHD Non-touch, IR Cam/Mic Bezel`
-  * `32GB, DDR4-2666MHz SDRAM, 2 DIMMS`
-  * `Radeon Pro WX 3200 w/4GB GDDR5`
+* 15" MacBook Pro 
+  * Or the 16" MacBook if QA issues have been put to rest
+* 15.6" Dell Precision 7540 CTO Base
+  * Intel Core i7-9750H, 6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W
+  * 15.6" FHD/UHD Non-touch, IR Cam/Mic Bezel
+  * 32GB, DDR4-2666MHz SDRAM, 2 DIMMS
+  * Radeon Pro WX 3200 w/4GB GDDR5
 
 ## Keyboard and wrist rest
 
@@ -60,7 +60,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 ## Headphone
 
-* Sony WH-1000XM4 or Bose Quiet Comfort 35 II Wireless for good noise cancellation
+* [Sony WH-1000XM4](https://shopatsc.com/products/sony-wh-1000xm4-industry-leading-wireless-noise-cancelling-headphones-bluetooth-headset-with-mic-for-phone-calls-30-hours-battery-life-quick-charge-touch-control-alexa-voice-control-black?variant=34225365942411) or Bose Quiet Comfort 35 II Wireless for good noise cancellation
 * Beyerdynamic DT 770 for comfort
 
 ## Utilities for Mac
