@@ -1,6 +1,6 @@
 # Community
 
-One our core tenets is to foster tech communities.
+One of our core tenets is to foster tech communities. As part of this effort, we run/help run a number of Clojure initiatives in India.
 
 {% embed url="https://clojurebridge.org/" %}
 
