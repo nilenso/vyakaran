@@ -21,7 +21,7 @@ description: >-
 
 ### Clojure
 
-* [4Clojure](http://www.4clojure.com/): a good set of exercises to help you learn clojure
+* [4Clojure](http://www.4clojure.com/): a good set of exercises to help you learn Clojure
 * [Clojure for the Brave and True](https://www.braveclojure.com/)
 * [Clojure from Ground Up](https://aphyr.com/tags/Clojure-from-the-ground-up%20)
 * [Clojure Do's and Dont's](https://stuartsierra.com/tag/dos-and-donts)
