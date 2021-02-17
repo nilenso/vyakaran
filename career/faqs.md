@@ -37,7 +37,7 @@ description: Most frequently asked questions about working at nilenso
 * Our \(realistic\) hiring goals for the year in this regard are to hire at least 2 more women, one of them being senior.
 * We did a campus drive \(our first time\) exclusive to women from nid’s and srihari's college. Akshatha was hired from that initiative. We plan to go again in every year.
 * This is the 2nd year we’re running a summer internship exclusive to women, and lgbtq folks.
-* We’re sponsoring conference attendance, running clojure bridge, creating policies for women, etc.
+* We’re sponsoring conference attendance, running ClojureBridge, creating policies for women, etc.
 * Getting more women applicants is a long term problem for us to work on. We don’t expect a couple of small initiatives we take to solve the inequality in the industry, or even just in nilenso. We plan to keep at it, and find ways to do more.
 
 ## How do people learn new skills at nilenso? Do you have a different way for employees to skill up?
