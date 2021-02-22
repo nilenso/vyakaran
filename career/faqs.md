@@ -54,14 +54,3 @@ description: Most frequently asked questions about working at nilenso
 * We have an unlimited “Very Sick” [leave policy](https://vyakaran.nilenso.com/policy/leaves). In past, a bunch of us fell sick with dengue, for example.
 * If possible, clients are informed in advance, and measures are taken to hand off active initiatives to other people before the leave. For persistent, or non “very sick” leaves like migraines, or RSIs, or mental health issues that some of us have had in the past, we’ve informed our clients, and they’ve all generally understood us, and accommodated it. We do not have a policy about extended time-off for them, we do have detailed and inclusive [medical cover](https://vyakaran.nilenso.com/health-and-safety/medical-insurance). 
 
-
-
-##  
-
-##  
-
-  
-
-
-
-

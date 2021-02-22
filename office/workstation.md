@@ -75,6 +75,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 * [Display menu](http://displaymenu.milchimgemuesefach.de/): Display menu in your menu bar
 * [Zotero](https://www.zotero.org/download/): Helps manage bibliography and citations, pretty helpful if you want to read/write papers
 * [Trailer](http://ptsochantaris.github.io/trailer): GitHub notifications don't have great discoverability, use this to keep a track of PRs
+* [MeetingBar](https://github.com/leits/MeetingBar): See your next meeting in the menu bar and join with a single click
 
 ## Git support for pairing
 
