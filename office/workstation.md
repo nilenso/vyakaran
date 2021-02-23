@@ -62,6 +62,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 * [Sony WH-1000XM4](https://shopatsc.com/products/sony-wh-1000xm4-industry-leading-wireless-noise-cancelling-headphones-bluetooth-headset-with-mic-for-phone-calls-30-hours-battery-life-quick-charge-touch-control-alexa-voice-control-black?variant=34225365942411) or Bose Quiet Comfort 35 II Wireless for good noise cancellation
 * Beyerdynamic DT 770 for comfort
+* [Jabra Evolve with boom mic](https://www.jabra.in/business/office-headsets) for clear speech pickup and good microphone noise isolation. The entry-level wired on-ear headset is light and easy on the head and ears. Options are also available with active noise cancellation, and bluetooth \(if you really need those\).
 
 ## Utilities for Mac
 
