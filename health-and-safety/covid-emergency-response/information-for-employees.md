@@ -1,12 +1,16 @@
 # Information for employees
 
 {% hint style="danger" %}
-Current status: work from home till further notice.
+Current status: work from home till further notice with Fridays off.
 {% endhint %}
 
 ### **Emergency response**
 
 Due to the escalating urgency of this situation, we are requesting that you all follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely. We will keep you updated regarding any changes.
+
+### Fridays off
+
+At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. Taking inspiration from what some of our clients and colleagues have put in place, we are announcing Fridays off for the next 6 months \(May through October\) at nilenso. This timeframe is intended to cover the current wave we are experiencing, and an anticipated third wave a few months down the line.
 
 ### **Staying updated during this time**
 
