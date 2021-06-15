@@ -1,14 +1,12 @@
 # Internships
 
-{% hint style="success" %}
-Current status: fully remote [internship programme](https://nilenso.com/internship.html) for women/LGBTQ completed. There are currently no openings for internships.
+{% hint style="info" %}
+Current status: there are currently no openings for internships.
 {% endhint %}
-
-
 
 **Duration**: 6 weeks
 
-**Stipend**: INR 40k
+**Stipend**: INR 40,000
 
 **Stack**: Clojure \(no prior Clojure experience needed\)
 
