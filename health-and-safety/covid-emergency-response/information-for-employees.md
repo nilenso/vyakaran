@@ -6,7 +6,7 @@ Current status: work from home till further notice with Fridays off.
 
 ### **Emergency response**
 
-Due to the escalating urgency of this situation, we are requesting that you all follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely. We will keep you updated regarding any changes.
+Due to the escalating urgency of this situation, we are transitioning to a fully remote organisation. Please follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely, and will keep you updated regarding any changes.
 
 ### Fridays off
 
@@ -18,7 +18,7 @@ Reliable sources of information include the [The Ministry of Health and Welfare]
 
 ### **Working from home**
 
-In relation to the wfh policy we have instituted, please feel free to take any of these home from the office as needed. The easiest way might be to collectively book a cab or a small transport vehicle through blowhorn \([https://blowhorn.com/](https://blowhorn.com/)\) and have them drop off whatever you need at each of your homes.
+We want to equip you so you can be effective and comfortable while working from home. Please feel free to ship any of these to yourself from the office, or buy new equipment using the company credit card. The easiest way might be to collectively book a cab or a small transport vehicle through blowhorn \([https://blowhorn.com/](https://blowhorn.com/)\) and have them drop off whatever you need at each of your homes. If there's anything else we can do to support you during this time, just ask.
 
 * monitors
 * keyboards
@@ -28,8 +28,6 @@ In relation to the wfh policy we have instituted, please feel free to take any o
 * headphones
 * chairs
 * tables
-
-We want to equip you so you can be effective and comfortable while working from home. Please let us know if there's anything else we can do to support you during this time.
 
 To re-emphasize the best practices around remote work,
 
@@ -42,7 +40,7 @@ To re-emphasize the best practices around remote work,
 
 ### **Staying connected**
 
-Join our virtual watercooler on jitsi \(the link is available on \#remote on Slack\) when you're taking a break if you feel like hanging out with your colleagues and playing some games.
+Join our virtual watercooler on jitsi or discord \(the links are available on \#remote on Slack\) when you're taking a break if you feel like hanging out with your colleagues and playing some games.
 
 Our weekly standups are on as always.
 
@@ -50,7 +48,7 @@ Our weekly standups are on as always.
 
 Lastly, everyone is different. There's a lot you're dealing with right now. Cut yourself some slack if you're not as productive as you'd like to be. 
 
-If you are unwell, please get the medical attention and rest that you need. If you need to take time off for yourself or to care for someone, please do so without any hesitation. Nothing is more important than your health and the health of your loved ones.
+If you are unwell, please get the medical attention and rest that you need. If you need to take time off for yourself or to care for someone, please do so without any hesitation. Nothing is more important than the health and safety of you and your loved ones.
 
 We will be sending out an update to all of our clients to let them know about our COVID response policy.  
   
