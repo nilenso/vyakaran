@@ -1,6 +1,10 @@
 # Pantry
 
-Our office has a well-stocked pantry with healthy snacks. 
+{% hint style="info" %}
+We are currently fully remote, but will never run an office without a well-stocked pantry. That's a promise.
+{% endhint %}
+
+In the days before the pandemic, our office had a well-stocked pantry with healthy snacks. 
 
 Cut fruits, dry fruits and granola bars are available all day, every day. Orders for staples such as milk, bread, butter, jam, biscuits, maggi and juices are placed regularly by default.
 
