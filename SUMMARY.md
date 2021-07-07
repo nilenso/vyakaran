@@ -20,8 +20,6 @@
 
 ## PROCESS
 
-* [Ideal schedule](process/ideal-schedule.md)
-* [Communication](process/communication.md)
 * [Engineering](process/engineering/README.md)
   * [Reading material](process/engineering/reading-material.md)
   * [Code Reviews](process/engineering/code-reviews.md)
@@ -30,6 +28,8 @@
   * [Project kickoff](process/project-management/inception-1.md)
   * [Estimation](process/project-management/estimations.md)
   * [Iteration Planning Meetings \(IPMs\)](process/project-management/iteration-planning-meetings.md)
+* [Ideal schedule](process/ideal-schedule.md)
+* [Communication](process/communication.md)
 
 ## OFFICE
 
