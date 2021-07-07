@@ -16,7 +16,7 @@ description: 'Scoping, measuring and projecting.'
 
 ### Measurement
 
-* _yesterday’s weather_ is usually very accurate
+* _Yesterday’s weather_ is usually very accurate
 * If you don't have yesterday's weather, default to 2 points or M
 * Give yourself a wider window \(2 or 3 weeks\) to avoid sharp spikes at Holi
 * Prefer one week iterations as a basic skeleton
