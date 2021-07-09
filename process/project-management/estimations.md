@@ -22,7 +22,7 @@ description: 'Scoping, measuring and projecting.'
 * Prefer one week iterations as a basic skeleton
 * Prefer the simplest estimation possible
 * Never change estimation approach mid-project
-* **DO NOT** compensate for _irregularities_ – sick leaves and holidays are real
+* **DO NOT** compensate for _irregularities_ – sick leave and holidays are real
 * Consider making an exception for serious illness, weddings, sabbaticals and unexpected events
 
 ### Projection
