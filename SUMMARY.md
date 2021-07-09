@@ -26,8 +26,10 @@
   * [When is a project done?](process/engineering/when-is-a-project-done.md)
 * [Project Management](process/project-management/README.md)
   * [Project kickoff](process/project-management/inception-1.md)
+  * [Iteration Planning Meetings](process/project-management/iteration-planning-meetings.md)
+  * [Retrospectives](process/project-management/retrospectives.md)
+  * [Standups](process/project-management/standups.md)
   * [Estimation](process/project-management/estimations.md)
-  * [Iteration Planning Meetings \(IPMs\)](process/project-management/iteration-planning-meetings.md)
 * [Ideal schedule](process/ideal-schedule.md)
 * [Communication](process/communication.md)
 

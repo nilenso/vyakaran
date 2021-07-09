@@ -1,4 +1,4 @@
-# Iteration Planning Meetings \(IPMs\)
+# Iteration Planning Meetings
 
 Our default delivery style is based on the classic Extreme programming methodologies with 1-week iterations, daily standups, TDD, pair programming, and regular communication.
 
