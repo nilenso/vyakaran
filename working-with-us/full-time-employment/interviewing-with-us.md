@@ -20,7 +20,7 @@ Please tell us about your work \(professional experience, open source contributi
 
 * Take home problem
 
-  * We will ask you to solve a small take home assignment in any language of your choosing
+  * We _may_ ask you to solve a small take home assignment in any language of your choosing
   * We are not merely looking for a functionally correct solution. Clearly calling out your assumptions, having a readme, well documented code, good naming, atomic commits and writing tests make you a better fit for us. Please go through the suggestions we include in the problem we have shared with you
   * We understand that people are busy, so please feel free to let us know how long you need to work through this
 
