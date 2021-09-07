@@ -19,7 +19,12 @@
 * Try to write reviews for everyone if possible
 * Definitely write reviews for people you have worked with closely
 * Ideally, nothing in the review is a surprise to the reviewee
-* There is a short discussion \(~30 minutes per person\), which happens across two days
+* Please feel free to have a conversation \(in writing\) on the feedback given. The idea is for this to be an open conversation among us
+* Incorporate client feedback \(where available\) in your self review
+  * Client reviews offer useful insight that we can learn from
+  * At the same time, we understand that it is difficult to compare reviews across clients as there is no common frame of reference
+  * We also recognise that our clients may not prioritise the same things we do We account for these factors in our reviews as well as level discussions
+* There is a short discussion \(~30 minutes per person\) to clarify any outstanding questions, summarise the reviews and note down actionable feedback. This generally happens over two days
 
 We often recommend the **retrospective starfish model** for giving feedback. Basically think in terms of what someone should
 
@@ -29,5 +34,5 @@ We often recommend the **retrospective starfish model** for giving feedback. Bas
 * do less of
 * stop doing
 
-This is more a guideline than anything else. The format doesn't really matter, free-flowing text is perfectly fine. Be honest, and professional. Think about what someone is doing that's great, and what they should work on to get better.
+This is more a guideline than anything else. The format doesn't really matter, free-flowing text is perfectly fine. Be honest, and professional. While critical feedback is great, a pat on the back is just as welcome, so don't forget to highlight the positives!
 
