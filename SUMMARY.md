@@ -8,7 +8,8 @@
   * [Interviewing with us](working-with-us/full-time-employment/interviewing-with-us.md)
   * [Coordinating interviews](working-with-us/full-time-employment/coordinating-interviews.md)
 * [Internships](working-with-us/internships.md)
-* [Onboarding](working-with-us/onboarding.md)
+* [Onboarding](working-with-us/onboarding/README.md)
+  * [Onboarding checklist](working-with-us/onboarding/onboarding-checklist.md)
 * [Offboarding](working-with-us/offboarding.md)
 
 ## Career
