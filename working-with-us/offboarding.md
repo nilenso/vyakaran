@@ -2,7 +2,8 @@
 
 * Exit interview
   * Speak to the person about their experience at nilenso and any feedback they have for us
-  * Document a summary of the conversation over email
+  * [Reference questions](https://docs.google.com/document/d/1J72vFx5TM1zuaeY13ZjzKohBoqGVNZYXkyTr23XG4h4/edit#heading=h.c8ik5zmvyov) for the interview
+  * Document a summary of the conversation
 * Paperwork
   * Resigning employees should hand over a signed resignation letter including actual date of leaving employment, which will be acknowledged by nilenso
   * If an employee’s name is on the LLP agreement, amend the LLP filing form 4 within 30 days of resignation
