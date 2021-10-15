@@ -10,7 +10,7 @@ description: >-
 
 These guides are designed to be best used with a mentor. The pages you are about to read in this section are references to help you know what we think you'd need to know in the context of writing software at nilenso.
 
-{% page-ref page="reading-material.md" %}
-
-
+{% content-ref url="reading-material.md" %}
+[reading-material.md](reading-material.md)
+{% endcontent-ref %}
 

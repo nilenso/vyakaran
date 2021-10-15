@@ -12,12 +12,11 @@
 
 #### Definitions
 
-* 09.30 to 11.00 / 17.00 to 18.30 nilenso hours
+*   09.30 to 11.00 / 17.00 to 18.30 nilenso hours
 
-  \*\* 09.30 to 11.00 morning nilenso hours
+    \*\* 09.30 to 11.00 morning nilenso hours
 
-  \*\* 17.00 to 18.30 evening nilenso hours
-
+    \*\* 17.00 to 18.30 evening nilenso hours
 * 11.00 to 17.00 core pairing hours
 
 #### What happens during core pairing hours
@@ -31,16 +30,16 @@
 
 * Most days, for most people
   * Project work
-* Some days, for some people \(more often for some than others\)
+* Some days, for some people (more often for some than others)
   * Tuesday standup
-  * Internal meetings \(eg. finstrat\)
+  * Internal meetings (eg. finstrat)
   * Staffing-related discussions
-  * Paperwork-related work \(eg. bank, audit related documents\)
-  * Office-related discussions \(eg. purchases, repairs\)
-  * Initial phone or in-person interview \(unless not possible to schedule during this time\)
-  * Sales calls \(where possible\)
+  * Paperwork-related work (eg. bank, audit related documents)
+  * Office-related discussions (eg. purchases, repairs)
+  * Initial phone or in-person interview (unless not possible to schedule during this time)
+  * Sales calls (where possible)
 
-#### Exceptions \(scheduling nilenso work during core pairing hours\)
+#### Exceptions (scheduling nilenso work during core pairing hours)
 
 * Tuesday standup
 * Sales calls that cannot be scheduled during nilenso hours
@@ -53,16 +52,16 @@
 
 #### Setting expectations with clients
 
-* 75% productivity  _8 hours_  22 days = 132 hours / month on project work \(on average\)
-* 25%  _8 hours_  22 days = 44 hours / month = 528 hours / year = 66 days / year \(assuming 8 hour days\) = 33 days leave + 33 days nilenso work
+* 75% productivity _ 8 hours _ 22 days = 132 hours / month on project work (on average)
+* 25% _ 8 hours _ 22 days = 44 hours / month = 528 hours / year = 66 days / year (assuming 8 hour days) = 33 days leave + 33 days nilenso work
 * Communicate nilenso meetings early, clearly and consistently over the most appropriate medium of communication. Repeat several times. Add it to your calendar
-* Communicate leave plans \(for the client, this will include review meetings, away days, urgent long nilenso meetings\) early, clearly and consistently over email and other appropriate media of communication. Repeat several times. Add it to your calendar. Set an out of office if you're away for more than 2 days
+* Communicate leave plans (for the client, this will include review meetings, away days, urgent long nilenso meetings) early, clearly and consistently over email and other appropriate media of communication. Repeat several times. Add it to your calendar. Set an out of office if you're away for more than 2 days
 * Make sure your team is aware of sick leaves as early as possible
 
 #### Setting expectations with nilenso
 
 * There are 2 sets of nilenso hours: morning nilenso hours and evening nilenso hours
-* To be fair to everyone \(folks who prefer to start early, and to those who prefer to stay late\) we will alternate between the morning and evening slots when we schedule meetings
+* To be fair to everyone (folks who prefer to start early, and to those who prefer to stay late) we will alternate between the morning and evening slots when we schedule meetings
 * It is possible that you are not free in either one of the slots. If so, please communicate the fact that you are not available by blocking off that time in your calendar
 * Send an email about upcoming leave plans. Communicate leaves early, clearly and consistently at standup. Repeat several times. Add it to your calendar. Set an out of office if you're away for more than 2 days. Log under the appropriate project in Harvest
 * Make sure nilenso is aware of sick leaves as early as possible. Log under the appropriate project in Harvest
@@ -74,4 +73,3 @@
   * This is a guideline, not a rule
   * Some ensonians may start a bit earlier, or a bit later
   * However, just like any team, it is important to set expectations around when you can reasonably expect your team to be available
-

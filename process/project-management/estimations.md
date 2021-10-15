@@ -1,5 +1,5 @@
 ---
-description: 'Scoping, measuring and projecting.'
+description: Scoping, measuring and projecting.
 ---
 
 # Estimation
@@ -18,7 +18,7 @@ description: 'Scoping, measuring and projecting.'
 
 * _Yesterday’s weather_ is usually very accurate
 * If you don't have yesterday's weather, default to 2 points or M
-* Give yourself a wider window \(2 or 3 weeks\) to avoid sharp spikes at Holi
+* Give yourself a wider window (2 or 3 weeks) to avoid sharp spikes at Holi
 * Prefer one week iterations as a basic skeleton
 * Prefer the simplest estimation possible
 * Never change estimation approach mid-project
@@ -29,6 +29,5 @@ description: 'Scoping, measuring and projecting.'
 
 * Take what was measured, mark it against the scope, project into the future
 * Do not adjust, do not compensate, do not pad work/estimates
-* Pad the end \(of a release, of a project\) for inevitable changes
+* Pad the end (of a release, of a project) for inevitable changes
 * Be honest with everyone about what you see
-

@@ -8,5 +8,3 @@ One of our core tenets is to foster tech communities. As part of this effort, we
 
 {% embed url="https://www.meetup.com/Koljure" %}
 
-
-

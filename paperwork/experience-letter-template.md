@@ -1,28 +1,26 @@
 # Experience letter
 
-**&lt;Date&gt;**
+**\<Date>**
 
 To Whomsoever It May Concern
 
-To **&lt;Addressee, and address&gt;** optional
+To** \<Addressee, and address>** optional
 
-Subject: Experience letter for **&lt;Name&gt;**
+Subject: Experience letter for **\<Name>**
 
-Dear Sir/Madam,   
-
-
-**&lt;Name&gt;** has has been employed at Nilenso Software LLP since &lt;Appointment date&gt;. **&lt;Name’s&gt;** yearly gross salary is **&lt;annual salary&gt;**.
-
-\[Optional, for work visas\] All financial arrangements pertaining to this visit i.e. travel, accommodation, food, and other expenses will be borne by Nilenso Software LLP.
-
-If you have any questions regarding **&lt;Name's**&gt; employment with us, please get in touch with us on **&lt;email&gt;**.    
+Dear Sir/Madam, \
 
 
-Thank you,  
-  
+**\<Name>** has has been employed at Nilenso Software LLP since \<Appointment date>. **\<Name’s>** yearly gross salary is **\<annual salary>**.
+
+\[Optional, for work visas] All financial arrangements pertaining to this visit i.e. travel, accommodation, food, and other expenses will be borne by Nilenso Software LLP.
+
+If you have any questions regarding **\<Name's**> employment with us, please get in touch with us on **\<email>**.  \
 
 
-Authorized Signatory  
-  
+Thank you,\
+\
 
 
+Authorized Signatory\
+\

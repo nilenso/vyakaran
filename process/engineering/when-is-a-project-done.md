@@ -16,14 +16,12 @@ description: 'a.k.a: Never. a.k.a: When is a project mature enough?'
 * **Old APIs**: Backward-compatible, deprecated, or deleted? Client libraries?
 * **Just one more thing**: Is there anything pending on your plate?
 * **Dependencies**: Who owns them?
-* **Follow-up**: Who’s talking? Who’s fault is it if it doesn’t happen? \(_YOURS_\). What happens, if tomorrow, the entire team ceases to exist?
+* **Follow-up**: Who’s talking? Who’s fault is it if it doesn’t happen? (_YOURS_). What happens, if tomorrow, the entire team ceases to exist?
 
 **Maturity means**
 
 * Process
 * Documentation
 * Automation
-* Eliminating process altogether \(no ad-hoc work\)
-
-
+* Eliminating process altogether (no ad-hoc work)
 

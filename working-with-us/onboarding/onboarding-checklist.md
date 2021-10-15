@@ -9,8 +9,8 @@
 
 **Basics**
 
-* [Workstation](https://app.gitbook.com/@nilenso/s/playbook/~/drafts/-Mjdm-OIDupxedL7irH1/office/workstation)
-* Email, email groups \(business@nilenso.com post probation\) 
+* [Workstation](https://app.gitbook.com/@nilenso/s/playbook/\~/drafts/-Mjdm-OIDupxedL7irH1/office/workstation)
+* Email, email groups (business@nilenso.com post probation) 
 * Google drive walkthrough
 * Calendars: nilenso and leaves
 * Organisations on GitHub and GitLab
@@ -20,9 +20,9 @@
 * Telegram groups
 * Activate the POSH module
 * Visiting cards / stickers
-* Vault \(after 3 months\)
+* Vault (after 3 months)
 
-  
+\
 **Payroll, expenses and insurance**
 
 * Bank details
@@ -30,4 +30,3 @@
 * Greytip for payroll: request accounting team to add
 * kulu: for expenses and reimbursements
 * Health insurance
-

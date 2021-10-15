@@ -46,11 +46,10 @@ The idea is not just to have flowery language. The idea is to create an environm
 
 Respond to your review in a timely fashion to allow for new cycles. Use something like [Trailer](http://ptsochantaris.github.io/trailer) to keep a track of notifications. Don’t just accept the feedback and change your code. Work through the trade-offs and explain advantages of your approach wherever possible. In times of conflict, apply [this](https://google.github.io/eng-practices/review/reviewer/standard.html#conflicts).
 
-Consider using a template like this to describe your PR. Specifically Because and This addresses. Make good use of images and gifs wherever possible. Add implementation notes \(or comments\) so that the reviewer doesn’t have to check in with you about non-obvious design decisions. Wherever possible, link to the issue or card or story on the top of your description.
+Consider using a template like this to describe your PR. Specifically Because and This addresses. Make good use of images and gifs wherever possible. Add implementation notes (or comments) so that the reviewer doesn’t have to check in with you about non-obvious design decisions. Wherever possible, link to the issue or card or story on the top of your description.
 
 ### References
 
-* [https://conventionalcomments.org](https://conventionalcomments.org/)
+* [https://conventionalcomments.org](https://conventionalcomments.org)
 * [http://ptsochantaris.github.io/trailer](http://ptsochantaris.github.io/trailer/)
 * [https://google.github.io/eng-practices/review](https://google.github.io/eng-practices/review)
-

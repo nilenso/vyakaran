@@ -8,39 +8,9 @@ Don't forget to let your clients and colleagues know that you're [taking leave](
 {% tab title="Statutory" %}
 **Statutory leaves**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>India</b>
-      </th>
-      <th style="text-align:left">Canada</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>26 Jan: Republic Day</li>
-          <li>01 May: Labour Day</li>
-          <li>15 Aug: Independence Day</li>
-          <li>02 Oct: Gandhi Jayanti</li>
-          <li>01 Nov: Rajyotsava</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>15 Feb: Family Day</li>
-          <li>24 May: Victoria Day</li>
-          <li>01 Jul: Canada Day</li>
-          <li>02 Aug: Civic Holiday</li>
-          <li>11 Nov: Remembrance Day</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **India**                                                                                                                                                           | Canada                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><ul><li>26 Jan: Republic Day</li><li>01 May: Labour Day</li><li>15 Aug: Independence Day</li><li>02 Oct: Gandhi Jayanti</li><li>01 Nov: Rajyotsava</li></ul> | <p></p><ul><li>15 Feb: Family Day</li><li>24 May: Victoria Day</li><li>01 Jul: Canada Day</li><li>02 Aug: Civic Holiday</li><li>11 Nov: Remembrance Day</li></ul> |
 {% endtab %}
 
 {% tab title="Discretionary" %}
@@ -66,7 +36,7 @@ Read more on [https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/](https://b
 {% tab title="Parental" %}
 **Parental leave**
 
-We believe that parenting is a joy and a responsibility that should be shared by all parents. _**Anyone**_ \(_regardless of gender\)_ welcoming a newborn \(biological or adopted\) is offered 6 months paid and a further 6 months unpaid leave.
+We believe that parenting is a joy and a responsibility that should be shared by all parents. _**Anyone**_ (_regardless of gender)_ welcoming a newborn (biological or adopted) is offered 6 months paid and a further 6 months unpaid leave.
 
 This can be taken anytime from 6 months before the child is born to when the child is 24 months old.
 {% endtab %}
@@ -81,8 +51,6 @@ Additional paid leave of up to 15 days per year is available for significant lif
 Additional unpaid leave is available during the year if required. The salary is adjusted prorata based on number of calendar days of additional leaves taken.
 {% endtab %}
 {% endtabs %}
-
-
 
 
 

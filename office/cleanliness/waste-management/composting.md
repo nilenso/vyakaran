@@ -6,7 +6,7 @@ Ask yourself if your internal monologue says the tl;dr for composting is:
 
 * throw organics in a pile to decompose
 * cover with dirt to avoid pests
-* put organics-turned-dirt somewhere that dirt belongs \(a garden?\)
+* put organics-turned-dirt somewhere that dirt belongs (a garden?)
 
 If it is, you do not need to read this page. If it isn't, you really need to read this page, at a minimum. And probably more material elsewhere.
 
@@ -20,32 +20,32 @@ At nilenso, we compost. We have done this for a long time. It's pretty easy and 
 
 #### Hardware
 
-Aerobic composting can be done in the kambha sold by DailyDump. It's possible to make your own ugly-ass composter out of a bucket but we don't need to be that ghetto and it really doesn't hurt anyone to support a local business that's actually trying to clean up this city. The kambhas are attractive and earthenware so they themselves are biodegradable \(when the time comes\). Buy them.
+Aerobic composting can be done in the kambha sold by DailyDump. It's possible to make your own ugly-ass composter out of a bucket but we don't need to be that ghetto and it really doesn't hurt anyone to support a local business that's actually trying to clean up this city. The kambhas are attractive and earthenware so they themselves are biodegradable (when the time comes). Buy them.
 
-DailyDump also sells a "leave-it pot" which is larger and can be used to store unfinished compost for an extended period of time. Our current leave-it pot is actually disintegrating thanks to our attempts to put bokashi waste in it. We should buy a new one \(or two\). They come in 3 sizes; we should buy the largest.
+DailyDump also sells a "leave-it pot" which is larger and can be used to store unfinished compost for an extended period of time. Our current leave-it pot is actually disintegrating thanks to our attempts to put bokashi waste in it. We should buy a new one (or two). They come in 3 sizes; we should buy the largest.
 
-Alternatively, DailyDump sells a large plastic apartment-scale composter \("Aaga"\). This might actually be the most sensible option for an office.
+Alternatively, DailyDump sells a large plastic apartment-scale composter ("Aaga"). This might actually be the most sensible option for an office.
 
 We should also have some accessories:
 
 * Remix powder can be purchased from DailyDump. It is pre-made cocopeat with added microbes.
 * Having some extra microbes doesn't hurt. They are a white powder sold by DailyDump and speed up the decomposition process.
 * Haldi, neem, and chilli powder can all help ward off pests.
-* White vinegar \(not apple vinegar\) can be sprayed on the outside of the pot to keep ants away.
+* White vinegar (not apple vinegar) can be sprayed on the outside of the pot to keep ants away.
 * Pots can be placed inside a wider plastic tub to prevent maggots from crawling onto the terrace and into the office.
 
 #### What to do
 
 1. Collect organic waste in a single, sealed container indoors. Preferably, the office would have only one. It can be kept in the kitchen. If waste is large/chunky, cut it up into smaller pieces first. An aerobic composter cannot compost meat; it might spread disease. Try to limit dairy waste; anything but a small amount should be washed down the sink instead. Eggs, bones, and all vegetable matter are fine.
-2. To start a new composter, lay newspaper down on the ropes at the bottom of the kambha so liquids do not leak out. Cover the newspaper in a layer of remix powder. Cover the bottom of the kambha underneath in a layer of leaves \(to catch liquids\); you can take these from the top of the leaf composter.
+2. To start a new composter, lay newspaper down on the ropes at the bottom of the kambha so liquids do not leak out. Cover the newspaper in a layer of remix powder. Cover the bottom of the kambha underneath in a layer of leaves (to catch liquids); you can take these from the top of the leaf composter.
 3. Someone should be assigned to move the organic waste to the composter at the end of the day: 
-   * spread the organic waste in the kambha or aaga \(do not use the leave-it pot for initial composting, if it can be avoided\)
+   * spread the organic waste in the kambha or aaga (do not use the leave-it pot for initial composting, if it can be avoided)
    * sprinkle haldi and neem over top to discourage bugs; if there are already maggots, add chilli powder — be liberal. these powders are cheap and effective.
-   * \(if at this stage the compost seems overrun with maggots, throw in a lot of neem/haldi/chilli, mix it up, cover the top with a layer of neem/haldi/chilli and then a layer of remix powder... finally, set the pot aside to let it compost completely so it can be restarted\)
+   * (if at this stage the compost seems overrun with maggots, throw in a lot of neem/haldi/chilli, mix it up, cover the top with a layer of neem/haldi/chilli and then a layer of remix powder... finally, set the pot aside to let it compost completely so it can be restarted)
    * sprinkle remix powder until the food waste is completely covered; if you come back the next day and there is ''any smell at all'', you've done it wrong... add more powder next time.
 4. When the kambha is 66% to 75% full, stop adding new material and switch it out for an empty kambha pot. Follow the "start a new composter" instructions from Step 2.
 5. When all 3 kambha pots in a stack are full, pour them into a leave-it pot to finish composting in there. Pour the most recent kambha in first so the most unfinished compost is at the bottom, hidden from bugs.
-6. When compost is completely done \(it turns to black/brown dirt, basically\), add it to plants or give it back to DailyDump.
+6. When compost is completely done (it turns to black/brown dirt, basically), add it to plants or give it back to DailyDump.
 
 #### Understanding
 
@@ -65,7 +65,7 @@ You can sprinkle the leaf composters with water in the dry season to encourage t
 
 Don't bother.
 
-Bokashi is a relatively simple pickling \(pre-composting\) process which can absorb bones, dairy, and even meat. It's anaerobic, using a sealed plastic tub. The pickling happens with active microbes, sprinkled liberally into the bucket as a powder. Bokashi, unfortunately for a shared office environment, has some '''very strict rules'''. You must:
+Bokashi is a relatively simple pickling (pre-composting) process which can absorb bones, dairy, and even meat. It's anaerobic, using a sealed plastic tub. The pickling happens with active microbes, sprinkled liberally into the bucket as a powder. Bokashi, unfortunately for a shared office environment, has some '''very strict rules'''. You must:
 
 * keep the bokashi ''indoors''. somewhere dark, cool, and dry.
 * drain the liquid/leachate every day. ''every. day.''
@@ -73,7 +73,6 @@ Bokashi is a relatively simple pickling \(pre-composting\) process which can abs
 * add chilli powder if bugs do appear
 * add honey if the bokashi doesn't have enough sugar and needs a "boost"
 
-Bokashi is quite unlike aerobic composting. The output is a ''pickle'', not a compost. You either need to finish this pickle in a composter or underground and it is very acidic so it must be buried away from the roots of trees and plants. Unlike aerobic composting \(which is odolourless\), there is a smell; it's pleasant, though. A bokashi should smell like a brewery: slightly yeasty, slightly fermented, slightly sweet. Because you aren't adding any "fake dirt" to a bokashi, you can cram a lot more waste into a smaller amount of space; it's good for tiny apartments.
+Bokashi is quite unlike aerobic composting. The output is a ''pickle'', not a compost. You either need to finish this pickle in a composter or underground and it is very acidic so it must be buried away from the roots of trees and plants. Unlike aerobic composting (which is odolourless), there is a smell; it's pleasant, though. A bokashi should smell like a brewery: slightly yeasty, slightly fermented, slightly sweet. Because you aren't adding any "fake dirt" to a bokashi, you can cram a lot more waste into a smaller amount of space; it's good for tiny apartments.
 
 Bokashi is very easy to screw up. We actively screwed it up by breaking all of the above rules but it's even easy to screw up if you're being careful. That's why we don't do it anymore, despite the fact that it is a superior method of initiating the composting routine. If you want to try it at home, read about it and understand the process in detail. Know that it will be a learning process and that you will need to experiment quite a bit. Email Steven and he can point you to some resources.
-

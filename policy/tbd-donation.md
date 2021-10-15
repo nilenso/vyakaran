@@ -7,4 +7,3 @@
 * Send a confirmation of your donation to kulu, and enter 50% of the donation amount in the appropriate field
 
 nilenso independently contributes to causes that we collectively believe in. These are independent of the above.
-

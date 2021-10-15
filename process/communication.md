@@ -2,7 +2,7 @@
 
 ### Chat
 
-Chat \(currently on Slack\) is the primary mode of communication at nilenso
+Chat (currently on Slack) is the primary mode of communication at nilenso
 
 #### Channel guidelines
 
@@ -20,7 +20,7 @@ Chat \(currently on Slack\) is the primary mode of communication at nilenso
 * Tag the intended recipients of the message in the message
 * Tag @here when you want everyone online to see the message
 * Tag @channel when you're making important announcements. Use prudently
-* Avoid tagging folks on messages in \#sundry or on non-critical messages unless you know they are free
+* Avoid tagging folks on messages in #sundry or on non-critical messages unless you know they are free
 * If you are tagged on a message, respond to it, even if to say that you won't have time to participate in the discussion. Know that someone has taken the effort to type a message intended for you, and not responding to it seems like you're ignoring them
 * Make time to check internal Chat every day and respond to messages
 
@@ -56,7 +56,7 @@ Email is intended for more formal communication. In the interest of transparency
 
 * business@nilenso.com for all company communications with clients and vendors
 * finance@nilenso.com for all accounts and finance related communication with CAs, banks, investment companies, auditors etc
-* announcements@nilenso.com for all company-wide announcements \(this is internal and cannot be posted to from outside the organization\)
+* announcements@nilenso.com for all company-wide announcements (this is internal and cannot be posted to from outside the organization)
 * careers@nilenso.com for all hiring related conversations
 * bills@nilenso for forwarding any bills that are spent on the company cards including subscriptions, licenses and one-off payments
 * leaves@nilenso.com for all leave intimations
@@ -67,7 +67,7 @@ Email is intended for more formal communication. In the interest of transparency
 
 #### Formatting
 
-* Use formatting afforded by your email client or text editor as appropriate. Ensure good readability for the intended recipient\(s\)
+* Use formatting afforded by your email client or text editor as appropriate. Ensure good readability for the intended recipient(s)
   * Use an email signature as appropriate
 
 #### Timing
@@ -87,7 +87,7 @@ Formal meetings, casual catch ups and everything in between
 
 #### Tagging
 
-* Try to "just do it!" whenever you can \(especially 1:1 catch ups\)
+* Try to "just do it!" whenever you can (especially 1:1 catch ups)
 * If specific folks need to be at a meeting, ask them about their availability and send out a meeting invite in advance
 * Ensure that there is a video call link so remote folks can join in
 
@@ -141,4 +141,3 @@ Generally used when all else fails
 #### Timing
 
 * Call at reasonable hours except in an emergency
-

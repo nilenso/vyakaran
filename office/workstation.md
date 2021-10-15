@@ -35,9 +35,9 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 * [Cooler Master MK730](https://www.coolermaster.com/catalog/peripheral/keyboards/mk730/)
 * [Das Keyboard 4 Professional for Mac](https://shop.daskeyboard.com/collections/all-mechanical-keyboards/products/das-keyboard-4-professional-for-mac?variant=1168670496)
-* [Filco Majestouch Convertible 2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3901)
+* [Filco Majestouch Convertible 2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail\&p=3901)
 * [Kinesis Advantage2](https://kinesis-ergo.com/shop/advantage2/)
-* [3M Gel wrist rest](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Gel-Wrist-Rest-for-Keyboard-with-Leatherette-Cover-and-Antimicrobial-Product-Protection-WR310LE/?N=5002385+3294308054&rt=rud)
+* [3M Gel wrist rest](https://www.3m.com/3M/en_US/company-us/all-3m-products/\~/3M-Gel-Wrist-Rest-for-Keyboard-with-Leatherette-Cover-and-Antimicrobial-Product-Protection-WR310LE/?N=5002385+3294308054\&rt=rud)
 
 ## Mouse
 
@@ -54,7 +54,7 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 ## Webcam
 
-* Logitech c920 or c922 \(which does 60fps\) if c920 is unavailable
+* Logitech c920 or c922 (which does 60fps) if c920 is unavailable
 * Logitech c930e wide angle for the conference room
   * Beware of the angle being too wide for individual use
 
@@ -62,18 +62,18 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 * [Sony WH-1000XM4](https://shopatsc.com/products/sony-wh-1000xm4-industry-leading-wireless-noise-cancelling-headphones-bluetooth-headset-with-mic-for-phone-calls-30-hours-battery-life-quick-charge-touch-control-alexa-voice-control-black?variant=34225365942411) or Bose Quiet Comfort 35 II Wireless for good noise cancellation
 * Beyerdynamic DT 770 for comfort
-* [Jabra Evolve with boom mic](https://www.jabra.in/business/office-headsets) for clear speech pickup and good microphone noise isolation. The entry-level wired on-ear headset is light and easy on the head and ears. Options are also available with active noise cancellation, and bluetooth \(if you really need those\).
+* [Jabra Evolve with boom mic](https://www.jabra.in/business/office-headsets) for clear speech pickup and good microphone noise isolation. The entry-level wired on-ear headset is light and easy on the head and ears. Options are also available with active noise cancellation, and bluetooth (if you really need those).
 
 ## Utilities for Mac
 
 * [MacPass](https://github.com/MacPass/MacPass): KeyPass Client for Mac
-* [iTerm](https://www.iterm2.com/): Better Terminal
-* [HomeBrew](https://brew.sh/): Package manager
-* [Spectacle](https://www.spectacleapp.com/): Sort-of tiling window management
+* [iTerm](https://www.iterm2.com): Better Terminal
+* [HomeBrew](https://brew.sh): Package manager
+* [Spectacle](https://www.spectacleapp.com): Sort-of tiling window management
 * [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/): Clipboard manager
 * [Caffeine](http://lightheadsw.com/caffeine/): Keep you mac awake
 * [Dash](https://kapeli.com/dash): Offline searchable programming docs
-* [Display menu](http://displaymenu.milchimgemuesefach.de/): Display menu in your menu bar
+* [Display menu](http://displaymenu.milchimgemuesefach.de): Display menu in your menu bar
 * [Zotero](https://www.zotero.org/download/): Helps manage bibliography and citations, pretty helpful if you want to read/write papers
 * [Trailer](http://ptsochantaris.github.io/trailer): GitHub notifications don't have great discoverability, use this to keep a track of PRs
 * [MeetingBar](https://github.com/leits/MeetingBar): See your next meeting in the menu bar and join with a single click
@@ -82,4 +82,3 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 * [git-duet](https://github.com/git-duet/git-duet) to coauthor git commits
 * [https://help.github.com/articles/creating-a-commit-with-multiple-authors](https://help.github.com/articles/creating-a-commit-with-multiple-authors/)
-

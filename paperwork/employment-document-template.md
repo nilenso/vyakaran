@@ -1,27 +1,27 @@
 # Offer letter
 
-**&lt;Date&gt;**
+**\<Date>**
 
-**&lt;Name and address&gt;**  
-
-
-Dear **&lt;Name&gt;**,  
+**\<Name and address>**\
 
 
-We are pleased to offer you the post of **&lt;Role&gt;** subject the following terms and conditions:
+Dear **\<Name>**,\
 
-Your appointment will be effective from **&lt;Appointment date&gt;**.
+
+We are pleased to offer you the post of **\<Role>** subject the following terms and conditions:
+
+Your appointment will be effective from **\<Appointment date>**.
 
 You will be paid gross emoluments as detailed in Annexure – A.
 
 Your employment with us will be governed by the Terms and Conditions as detailed in Annexure – B.
 
-We congratulate you on your appointment and wish you a long and successful career with us. We are confident that you will find your time with nilenso both personally and professionally rewarding, and that you will make a substantial contribution during this journey of ours.   
-  
-  
+We congratulate you on your appointment and wish you a long and successful career with us. We are confident that you will find your time with nilenso both personally and professionally rewarding, and that you will make a substantial contribution during this journey of ours. \
+\
+\
 
 
-Nilenso Software LLP  
+Nilenso Software LLP\
 
 
 ## Annexure – A
@@ -30,8 +30,8 @@ Nilenso Software LLP
 
 1. Position: Engineer   
 2. Location: Bangalore, India
-3. Joining Date: **&lt;Appointment date&gt;**
-4. Annual CTC \(Cost to Company\): **&lt;CTC&gt;**
+3. Joining Date: **\<Appointment date>**
+4. Annual CTC (Cost to Company): **\<CTC>**
 
 ### Section II  – Annual Salaries and Allowances
 
@@ -40,30 +40,30 @@ Nilenso Software LLP
 3. Bonus                
 4. Special Allowance        
 
---------------------------------------------------------------------------
+\--------------------------------------------------------------------------
 
 Total excluding Bonus         
 
-Total including Bonus           
+Total including Bonus         \
 
 
 Remuneration to employees, executives and partners at Nilenso Software LLP are in the form of salaries only. Profits shall not be distributed unless otherwise agreed in writing.
 
 Please indicate your understanding and acceptance of Annexure – A by signing in the space provided below.
 
-I accept.  
-  
+I accept.\
+\
 
 
 Signature:
 
-**&lt;Name, Date and Place&gt;**
+**\<Name, Date and Place>**
 
-## Annexure – B          
+## Annexure – B         
 
 #### 1. Review of salary
 
-Your salary will be reviewed in the month of April of every financial year \(subject to spending a minimum of 6 months in employment at nilenso as of 1st April\) upon the basis of your and company's performance, tenure, attitude, competence and achievements.
+Your salary will be reviewed in the month of April of every financial year (subject to spending a minimum of 6 months in employment at nilenso as of 1st April) upon the basis of your and company's performance, tenure, attitude, competence and achievements.
 
 #### 2. Reporting Time and Punctuality
 
@@ -81,15 +81,15 @@ Prior to joining organization, you will ensure that you will be free from any co
 
 #### 4.  Place of posting and transfer
 
-\(i\)     You may be required to go to any of the offices at Bangalore / out of Bangalore for official purposes for a short / long duration.
+(i)     You may be required to go to any of the offices at Bangalore / out of Bangalore for official purposes for a short / long duration.
 
-\(ii\)     Your services are transferable to any department/locations/subsidiary of the company at your consent and at the discretion of the management in Bangalore.
+(ii)     Your services are transferable to any department/locations/subsidiary of the company at your consent and at the discretion of the management in Bangalore.
 
-\(iii\)     In case of a transfer, the conditions of services, which are applicable for such place of transfer, to your category of staff, the same shall be applicable to you also. However, the company shall bear and necessary expenses of transfer packaging and transportation.
+(iii)     In case of a transfer, the conditions of services, which are applicable for such place of transfer, to your category of staff, the same shall be applicable to you also. However, the company shall bear and necessary expenses of transfer packaging and transportation.
 
 #### 5.  Leave Policy
 
-1. Company policies allow for 28 days of paid leaves every year and 5 days of statutory holidays. Government-approved holidays \(in case of elections, curfew or acts of war\) are additional to the above pool of leaves available. 
+1. Company policies allow for 28 days of paid leaves every year and 5 days of statutory holidays. Government-approved holidays (in case of elections, curfew or acts of war) are additional to the above pool of leaves available. 
 2. Need-based sick leaves are available.
 
 #### 6.  Probationary Period
@@ -107,23 +107,21 @@ You shall be subject to the various rules, regulations, administrative policies 
 
 Please sign the duplicate copy of this appointment letter as on your acceptance.
 
-Please indicate your understanding and acceptance of Annexure – B by signing in the space provided below.  
+Please indicate your understanding and acceptance of Annexure – B by signing in the space provided below.\
 
 
 I accept.
 
 Signature
 
-**&lt;Name, place and date&gt;**
+**\<Name, place and date>**
 
 ## Acknowledgement and Acceptance
 
-I have read and understood the above terms and conditions of employment and the implication thereof. I hereby accept the aforesaid terms and conditions and agree to abide by the same.  
+I have read and understood the above terms and conditions of employment and the implication thereof. I hereby accept the aforesaid terms and conditions and agree to abide by the same.\
 
 
 Signature
 
-**&lt;Name, place and date&gt;**  
-  
-
-
+**\<Name, place and date>**\
+\
