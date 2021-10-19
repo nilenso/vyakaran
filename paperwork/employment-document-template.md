@@ -28,21 +28,21 @@ Nilenso Software LLP\
 
 ### Section I  – Administrative
 
-1. Position: Engineer   
+1. Position: Engineer  &#x20;
 2. Location: Bangalore, India
 3. Joining Date: **\<Appointment date>**
 4. Annual CTC (Cost to Company): **\<CTC>**
 
 ### Section II  – Annual Salaries and Allowances
 
-1. Basic                
-2. House Rent Allowance    
-3. Bonus                
-4. Special Allowance        
+1. Basic               &#x20;
+2. House Rent Allowance   &#x20;
+3. Bonus               &#x20;
+4. Special Allowance       &#x20;
 
 \--------------------------------------------------------------------------
 
-Total excluding Bonus         
+Total excluding Bonus        &#x20;
 
 Total including Bonus         \
 
@@ -59,7 +59,9 @@ Signature:
 
 **\<Name, Date and Place>**
 
-## Annexure – B         
+Annexure – B         \
+
+
 
 #### 1. Review of salary
 
@@ -67,7 +69,7 @@ Your salary will be reviewed in the month of April of every financial year (subj
 
 #### 2. Reporting Time and Punctuality
 
-We offer you flexible working hours so that the total working hours per week amounts to 40 hours. However, when you are working in a team it is expected that you will adjust your work timings to sync with the rest of the team so that the team is able to perform at its best. Also, it would be reasonable to expect that we work with a client unless the activity is something that can be carried out from a location of your choice and convenience. 
+We offer you flexible working hours so that the total working hours per week amounts to 40 hours. However, when you are working in a team it is expected that you will adjust your work timings to sync with the rest of the team so that the team is able to perform at its best. Also, it would be reasonable to expect that we work with a client unless the activity is something that can be carried out from a location of your choice and convenience.&#x20;
 
 #### 3. Non Divulgence of Company’s Business Information
 
@@ -89,7 +91,7 @@ Prior to joining organization, you will ensure that you will be free from any co
 
 #### 5.  Leave Policy
 
-1. Company policies allow for 28 days of paid leaves every year and 5 days of statutory holidays. Government-approved holidays (in case of elections, curfew or acts of war) are additional to the above pool of leaves available. 
+1. Company policies allow for 28 days of paid leaves every year and 5 days of statutory holidays. Government-approved holidays (in case of elections, curfew or acts of war) are additional to the above pool of leaves available.&#x20;
 2. Need-based sick leaves are available.
 
 #### 6.  Probationary Period
@@ -98,10 +100,10 @@ You are required to serve a probationary period of up to 6 months after which yo
 
 #### 7.  Termination of service
 
-1. If particulars furnished by you in your application / personal data form or during the interview, or later during the tenure of your service in the organization as the case may be, are subsequently found to be incorrect 
+1. If particulars furnished by you in your application / personal data form or during the interview, or later during the tenure of your service in the organization as the case may be, are subsequently found to be incorrect&#x20;
 2. If you are found guilty of misconduct, disobedience, inefficiency, misappropriation misrepresentation, insubordination and or breach or any of the terms and conditions of your appointment and also of the rules and regulations of the organization as enforced from time to time.
 
-####  8.  General
+#### &#x20;8.  General
 
 You shall be subject to the various rules, regulations, administrative policies and other policies of the company, which are time being in force or shall be formed and enforced from time to time. The management has absolute power and right to cease or to modify / review the regulations and the said policies from time to time with or without intimation to you.
 

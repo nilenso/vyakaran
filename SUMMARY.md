@@ -47,7 +47,7 @@
 ## POLICY
 
 * [Expense account](policy/expense-account/README.md)
-  * [Tracking expenses](policy/expense-account/claiming-expenses.md)
+  * [Tracking expenses](policy/expense-account/tracking-expenses.md)
   * [Claiming reimbursements](policy/expense-account/claiming-reimbursements.md)
 * [Donation matching](policy/tbd-donation.md)
 * [Learning and conferences](policy/learning-and-conferences.md)
