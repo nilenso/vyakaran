@@ -1,11 +1,7 @@
-# Anti-harrassment
+# Anti-harassment
 
 {% hint style="info" %}
-Please mail&#x20;
-
-{% hint style="info" %}
-complaints@nilenso.com
-{% endhint %}
+To report a harrassment incident, please mail posh-committee@nilenso.com
 {% endhint %}
 
 1. Purpose: The policy strives to maintain a work environment in which people are treated with dignity, decency and respect. The environment of the company should be characterized by mutual trust and the absence of intimidation, oppression and exploitation.

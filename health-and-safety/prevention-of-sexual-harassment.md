@@ -1,7 +1,7 @@
 # Prevention Of Sexual Harassment
 
 {% hint style="info" %}
-If you would like to report a harrassment incident, please mail posh-committee@nilenso.com
+To report a harassment incident, please mail posh-committee@nilenso.com
 {% endhint %}
 
 ### Introduction

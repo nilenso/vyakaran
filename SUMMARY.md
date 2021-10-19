@@ -58,7 +58,7 @@
 
 ## Health and Safety
 
-* [Anti-harrassment](health-and-safety/anti-harrassment-policy.md)
+* [Anti-harassment](health-and-safety/anti-harrassment-policy.md)
 * [Prevention Of Sexual Harassment](health-and-safety/prevention-of-sexual-harassment.md)
 * [Medical cover](health-and-safety/medical-insurance.md)
 * [Disability support](health-and-safety/disability-support.md)
