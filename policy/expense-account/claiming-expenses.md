@@ -1,4 +1,4 @@
-# Claiming expenses
+# Tracking expenses
 
 {% hint style="info" %}
 Ref: [Expense account policy](https://app.gitbook.com/@nilenso/s/playbook/policy/expense-account)
@@ -10,11 +10,11 @@ When signing up for new services, use bills@nilenso.com where possible, so invoi
 
 In the invoice, include the company's GSTIN/GST number: 29AAKFN2903R1ZM
 
-Additionally, send the bill to kulu, our internal expense tracking solution. Make sure you have an account on kulu before you expense a purchase.
+Additionally, track the expense on Quickbooks.
 
-### Tracking the purchase on Quickbooks <a href="tracking-the-purchase-on-kulu" id="tracking-the-purchase-on-kulu"></a>
+### Tracking an expense on Quickbooks <a href="tracking-the-purchase-on-kulu" id="tracking-the-purchase-on-kulu"></a>
 
-Ref: [video on tracking a purchase on Quickbooks ](https://nilenso.slack.com/files/U026CCCVB/F02CVHV3QRW/zoom\_0.mp4)
+Ref: [Video on using Quickbooks to track an expense](https://drive.google.com/file/d/1Q2jyV9WPw1WfM4jJhB976JNFMubfW4ro/view?usp=sharing)
 
 * Login to Quickbooks
 * Dashboard > Add bill

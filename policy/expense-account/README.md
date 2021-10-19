@@ -12,6 +12,6 @@ Use the company card to purchase anything you need to including but not limited 
 As with everything, we trust you to be reasonable. If there's anything else you need, just ask.
 
 {% hint style="info" %}
-Any time you make a purchase, don't forget to [log it in kulu](https://app.gitbook.com/@nilenso/s/playbook/\~/edit/drafts/-LlF1l1IVjLjKpmIF5fu/process/expenses).
+Any time you make a purchase, don't forget to [track it](https://vyakaran.nilenso.com/policy/expense-account/claiming-expenses).
 {% endhint %}
 

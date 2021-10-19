@@ -47,7 +47,7 @@
 ## POLICY
 
 * [Expense account](policy/expense-account/README.md)
-  * [Claiming expenses](policy/expense-account/claiming-expenses.md)
+  * [Tracking expenses](policy/expense-account/claiming-expenses.md)
   * [Claiming reimbursements](policy/expense-account/claiming-reimbursements.md)
 * [Donation matching](policy/tbd-donation.md)
 * [Learning and conferences](policy/learning-and-conferences.md)
@@ -72,4 +72,3 @@
 * [Offer letter](paperwork/employment-document-template.md)
 * [Experience letter](paperwork/experience-letter-template.md)
 * [LLP agreement](paperwork/untitled.md)
-
