@@ -1,6 +1,12 @@
 # Anti-harrassment
 
+{% hint style="info" %}
+Please mail&#x20;
 
+{% hint style="info" %}
+complaints@nilenso.com
+{% endhint %}
+{% endhint %}
 
 1. Purpose: The policy strives to maintain a work environment in which people are treated with dignity, decency and respect. The environment of the company should be characterized by mutual trust and the absence of intimidation, oppression and exploitation.
 2. Scope: This policy guidance applies to all permanent/full time and contractual employees of Nilenso Software LLP (nilenso), and anyone who is working in the office premises.

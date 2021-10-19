@@ -1,5 +1,9 @@
 # Prevention Of Sexual Harassment
 
+{% hint style="info" %}
+If you would like to report a harrassment incident, please mail posh-committee@nilenso.com
+{% endhint %}
+
 ### Introduction
 
 nilenso believes in equal employment opportunity and that sexual harassment as a form of misconduct undermines the safety and dignity of all persons. We do not tolerate verbal or physical conduct that creates an intimidating, offensive, or hostile environment for our employees. Harassment of any kind, including sexual harassment, is forbidden in this organization and every employee has the right to be protected against it.
@@ -10,7 +14,7 @@ The purpose of this policy is to prevent any acts of sexual harassment, and to p
 
 ### Scope
 
-#### **Definition** 
+#### **Definition**&#x20;
 
 "Sexual harassment'' includes any one or more of the following unwelcome acts or behaviour (whether directly or by implication) namely:
 
@@ -18,17 +22,17 @@ a. Physical contact and advances; or b. A demand or request for sexual favours; 
 
 The following circumstances, among other circumstances, if it occurs or is present in relation to or connected with any act or behaviour of sexual harassment may amount to sexual harassment:
 
-i. implied or explicit promise of preferential treatment in their employment; or 
+i. implied or explicit promise of preferential treatment in their employment; or&#x20;
 
-ii. implied or explicit threat of detrimental treatment in their employment; or 
+ii. implied or explicit threat of detrimental treatment in their employment; or&#x20;
 
-iii. implied or explicit threat about their present or future employment status; or 
+iii. implied or explicit threat about their present or future employment status; or&#x20;
 
 iv. interferes with their work or creating an intimidating or offensive or hostile work environment for them; or v. humiliating treatment likely to affect their health or safety.
 
 Further behaviours of sexual harassment are defined as, but not limited to:
 
-I. Verbal harassment of a sexual nature, such as lewd comments, sexual jokes or references, and offensive personal references; demeaning, insulting, intimidating, or sexually suggestive comments (oral or written) about an individual's personal appearance or electronically transmitted messages (Jokes, remarks, letters, phone calls); 
+I. Verbal harassment of a sexual nature, such as lewd comments, sexual jokes or references, and offensive personal references; demeaning, insulting, intimidating, or sexually suggestive comments (oral or written) about an individual's personal appearance or electronically transmitted messages (Jokes, remarks, letters, phone calls);&#x20;
 
 II. A demand or request for sexual favors, sexually colored remarks, showing pornography, any other unwelcome physical conduct of sexual nature, lurid stares, physical contact or molestation, stalking, sounds, display of pictures, signs;
 
@@ -60,7 +64,7 @@ d. This organization has the right to take appropriate action against its employ
 
 #### ICC Members
 
-* To remain free of bias, and conduct inquiries in a fair manner. 
+* To remain free of bias, and conduct inquiries in a fair manner.&#x20;
 * Conduct the inquiry process and recommend appropriate actions as per the process outlined in this policy.
 * Follow the principles of natural justice and treat the complainant, respondent, witnesses and related persons to the inquiry with dignity and respect.
 * Submit, end of each calendar year, an annual report comprising details of all cases and actions taken.
@@ -71,13 +75,13 @@ d. This organization has the right to take appropriate action against its employ
 
 #### nilenso
 
-* nilenso is responsible for providing a safe working environment for its employees that is  free from harassment, bias and prejudice of any kind. 
+* nilenso is responsible for providing a safe working environment for its employees that is  free from harassment, bias and prejudice of any kind.&#x20;
 * Treat Sexual Harassment as misconduct under the service rules and take appropriate action as required.
 * Encourage respectful and dignified behaviour at the workplace at all times.
 * Have zero tolerance toward acts of sexual harassment.
 * Declare the names and contact details of all members of the ICC.
 * Display at conspicuous places in the workplace the penal consequences of Sexual Harassment.
-* Organize workshops and awareness programs at regular intervals for sensitizing employees, keeping in mind the provisions of this policy.  
+* Organize workshops and awareness programs at regular intervals for sensitizing employees, keeping in mind the provisions of this policy. &#x20;
 * Organize orientation and skill-building programs for the members of the ICC.
 * Provide the ICC with any support it may require in the process of conducting an inquiry.
 * Assist in securing the attendance all parties required for an inquiry, including the respondent, complainant and witnesses.
@@ -86,9 +90,9 @@ d. This organization has the right to take appropriate action against its employ
 
 #### Redressal Mechanism
 
-If you are working for our organization and in the course of your work, you have been sexually harassed by anyone through means which are mentioned above, we urge you to come forward with a written complaint as early as you can. Your complaint will be taken seriously and confidentiality will be maintained by us in the matter. We have zero tolerance towards such practices once they are proven. 
+If you are working for our organization and in the course of your work, you have been sexually harassed by anyone through means which are mentioned above, we urge you to come forward with a written complaint as early as you can. Your complaint will be taken seriously and confidentiality will be maintained by us in the matter. We have zero tolerance towards such practices once they are proven.&#x20;
 
-I. A complaint with respect to sexual harassment may be made by a written or electronic application addressed to the Internal Complaints Committee, through the President / or to any member of the Internal Complaints Committee. 
+I. A complaint with respect to sexual harassment may be made by a written or electronic application addressed to the Internal Complaints Committee, through the President / or to any member of the Internal Complaints Committee.&#x20;
 
 II. The complaint must be given to the persons specified above within 3 months of the occurrence (the complaint can be made within 6 months if the person is able to prove that there were some exceptional circumstances due to which complaint could not be made earlier) and we advise you to be vigilant and keep any document with you which can be used to substantiate an allegation. The redressal system will work based on other evidence if you cannot produce any documentary evidence.
 
