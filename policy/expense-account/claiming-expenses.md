@@ -12,24 +12,19 @@ In the invoice, include the company's GSTIN/GST number: 29AAKFN2903R1ZM
 
 Additionally, send the bill to kulu, our internal expense tracking solution. Make sure you have an account on kulu before you expense a purchase.
 
-### Tracking the purchase on kulu <a href="tracking-the-purchase-on-kulu" id="tracking-the-purchase-on-kulu"></a>
+### Tracking the purchase on Quickbooks <a href="tracking-the-purchase-on-kulu" id="tracking-the-purchase-on-kulu"></a>
 
-#### Through email <a href="through-email" id="through-email"></a>
+Ref: [video on tracking a purchase on Quickbooks ](https://nilenso.slack.com/files/U026CCCVB/F02CVHV3QRW/zoom\_0.mp4)
 
-* You can only send mails if you have an account under the ''nilenso'' team
-* Only submit a single attachment per email, if you have multiple reimbursements, send multiple emails
-* kulu only picks the biggest attachment (in size) if more than one is attached
-* Mention the details in the subject, these will be used as remarks
-* PDFs / Images are legit (beware of inline attachments -- these don't work :( )
-* Send the email to the **company email** (if you used company cash/card)
-* The best use-case is when receive an invoice over email. You can just hit forward and send it to kulu (preferably remove the text "fwd" from the subject)
-
-#### Through phone <a href="through-phone" id="through-phone"></a>
-
-* Get the app from play store 
-  * [https://play.google.com/store/apps/details?id=nilenso.com.kulu_mobile2\&hl=en](https://play.google.com/store/apps/details?id=nilenso.com.kulu_mobile2\&hl=en)
-* Click a picture of your expense (preferably along with the card's customer receipt if any) and the app will upload it
-
-#### Through the site <a href="through-the-site" id="through-the-site"></a>
-
-* Upload from [https://nilenso.kulu.tech/expenses](https://nilenso.kulu.tech/expenses), edit the details as necessary
+* Login to Quickbooks
+* Dashboard > Add bill
+* Add bills details
+  * Supplier: **Uncategorised supplier**
+  * Bill date
+  * Bill number
+  * Amounts are **Out of scope of Tax**
+  * Category: **Uncategorised Expense**
+  * Description
+  * Amount (INR)
+    * Please convert any foreign currencies to INR
+  * Attach the receipt and **Save and close**
