@@ -6,11 +6,11 @@ Ref: [Expense account policy](https://app.gitbook.com/@nilenso/s/playbook/policy
 
 ### Making a purchase <a href="making-a-purchase" id="making-a-purchase"></a>
 
-When signing up for new services, use bills@nilenso.com where possible, so invoices are automatically sent to this email ID. In other cases, forward a copy of the invoice to bills@nilenso.com
+When signing up for new services, use bills@nilenso.com or forward a copy of the invoice to bills@nilenso.com. Where possible, add the login details to vault, so the subscription can be managed without your involvement.
 
 In the invoice, include the company's GSTIN/GST number: 29AAKFN2903R1ZM
 
-Additionally, track the expense on Quickbooks.
+Additionally, track the expense on Quickbooks. For recurring subscriptions, ensure that our admin team is in the loop so they can track the expense.
 
 ### Tracking an expense on Quickbooks <a href="tracking-the-purchase-on-kulu" id="tracking-the-purchase-on-kulu"></a>
 
