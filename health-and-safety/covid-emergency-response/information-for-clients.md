@@ -1,14 +1,14 @@
 # Information for clients
 
 {% hint style="danger" %}
-Current status: work from home till further notice with Fridays off.
+Current status: work from home till further notice with Fridays 50% off.
 {% endhint %}
 
 ## Emergency response
 
 Since the pandemic hit in early 2020, we have transitioned to working as a fully remote team, which enabled several of our team members to make the decision to move back home to be with their families. While that has provided much support, we are all still grappling with what is happening to us, and around us. The situation in many parts of India is particularly serious.
 
-At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. Taking inspiration from what some of our clients and colleagues have put in place, we are announcing Fridays off for the next 6 months (May through October) at nilenso. This timeframe is intended to cover the current wave we are experiencing, and an anticipated third wave a few months down the line.
+At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. We announced Fridays off for 6 months (May through October), which was intended to cover the wave we were experiencing at the time, and an anticipated wave months down the line. We have since transitioned to getting back to working 50% on Fridays.
 
 ## What you can expect from us
 

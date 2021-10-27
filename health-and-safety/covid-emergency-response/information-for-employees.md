@@ -1,16 +1,16 @@
 # Information for employees
 
 {% hint style="danger" %}
-Current status: work from home till further notice with Fridays off.
+Current status: work from home till further notice with Fridays 50% off.
 {% endhint %}
 
 ### **Emergency response**
 
 Due to the escalating urgency of this situation, we are transitioning to a fully remote organisation. Please follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely, and will keep you updated regarding any changes.
 
-### Fridays off
+### Fridays 50% off
 
-At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. Taking inspiration from what some of our clients and colleagues have put in place, we are announcing Fridays off for the next 6 months (May through October) at nilenso. This timeframe is intended to cover the current wave we are experiencing, and an anticipated third wave a few months down the line.
+At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. We announced Fridays off for 6 months (May through October), which was intended to cover the wave we were experiencing at the time, and an anticipated wave months down the line. We have since transitioned to getting back to working 50% on Fridays.
 
 ### **Staying updated during this time**
 
@@ -46,7 +46,7 @@ Our weekly standups are on as always.
 
 ### **Final thoughts**
 
-Lastly, everyone is different. There's a lot you're dealing with right now. Cut yourself some slack if you're not as productive as you'd like to be. 
+Lastly, everyone is different. There's a lot you're dealing with right now. Cut yourself some slack if you're not as productive as you'd like to be.&#x20;
 
 If you are unwell, please get the medical attention and rest that you need. If you need to take time off for yourself or to care for someone, please do so without any hesitation. Nothing is more important than the health and safety of you and your loved ones.
 
