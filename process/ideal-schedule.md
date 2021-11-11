@@ -52,10 +52,9 @@
 
 #### Setting expectations with clients
 
-* 75% productivity _ 8 hours _ 22 days = 132 hours / month on project work (on average)
-* 25% _ 8 hours _ 22 days = 44 hours / month = 528 hours / year = 66 days / year (assuming 8 hour days) = 33 days leave + 33 days nilenso work
-* Communicate nilenso meetings early, clearly and consistently over the most appropriate medium of communication. Repeat several times. Add it to your calendar
-* Communicate leave plans (for the client, this will include review meetings, away days, urgent long nilenso meetings) early, clearly and consistently over email and other appropriate media of communication. Repeat several times. Add it to your calendar. Set an out of office if you're away for more than 2 days
+* A full working month is 120-130 hours
+* Some time during the year will involve participating in scheduled nilenso activities, and working on nilenso. Senior folks will work on nilenso more than junior folks
+* Communicate leave plans (for the client, this will include review meetings, away days, urgent long nilenso meetings) and nilenso meetings early, clearly and consistently over email and other appropriate media of communication. Send out reminders as necessary. Add this information to your calendar, and set an out of office as appropriate
 * Make sure your team is aware of sick leaves as early as possible
 
 #### Setting expectations with nilenso
