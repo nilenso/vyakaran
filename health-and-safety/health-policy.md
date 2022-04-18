@@ -8,7 +8,7 @@ Your psychological well being is as or more important than your physical health.
 
 In order to protect your privacy, there is a separate process to claim health related reimbursements.
 
-* Send an email to <mark style="color:blue;">healthmatters@nilenso.com</mark> with a copy of the invoice that you would like to be reimbursed for
+* Send an email to <mark style="color:blue;">nilensohealth@nilenso.com</mark> with a copy of the invoice that you would like to be reimbursed for
   * This email is only accessible to the suits and admin (who will be processing the reimbursement)
 * You will be reimbursed via bank transfer
 * We respect your confidentiality. Unless requested by our auditors, the contents of this email will not be shared with anyone
