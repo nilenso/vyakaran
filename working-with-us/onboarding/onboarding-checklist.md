@@ -10,7 +10,7 @@
 **Basics**
 
 * [Workstation](../../office/workstation.md)
-* Email, email groups (business@nilenso.com post probation)&#x20;
+* Email, add to employees@n email group
 * Google drive walkthrough
 * Calendars: nilenso and leaves
 * Organisations on GitHub and GitLab
@@ -19,8 +19,19 @@
 * Trello
 * Telegram groups
 * Activate the POSH module
-* Visiting cards / stickers
-* Vault (after 3 months)
+* Visiting cards / stickers\
+
+
+**Post Probation**
+
+* Add to email groups: business, hiring
+* Add to vault (bitwarden)
+
+**Post membership (one year from joining)**
+
+* Have all members to sign a new executive being added (no llp amendment, just a digital signature on letterhead)
+* remove member from employees@n and add them to members@n email groups
+* add them to [members](https://nilenso.slack.com/archives/G018RS54B6V) in slack
 
 \
 **Payroll, expenses and insurance**
