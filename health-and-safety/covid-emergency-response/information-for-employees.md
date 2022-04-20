@@ -1,16 +1,16 @@
 # Information for employees
 
 {% hint style="danger" %}
-Current status: work from home till further notice with Fridays 50% off.
+Current status: work from home till further notice.
 {% endhint %}
 
 ### **Emergency response**
 
 Due to the escalating urgency of this situation, we are transitioning to a fully remote organisation. Please follow a work-from-home protocol till further notice. Keeping employee safety in mind, we will likely extend this policy beyond the lockdown. This is an evolving situation that we are monitoring closely, and will keep you updated regarding any changes.
 
-### Fridays 50% off
+### Fridays 50% off (old)
 
-At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. We announced Fridays off for 6 months (May through October), which was intended to cover the wave we were experiencing at the time, and an anticipated wave months down the line. We have since transitioned to getting back to working 50% on Fridays.
+At this time, we feel that having some additional time off will help us deal with the stress that we are under a little better. We announced Fridays off for 6 months (May through October), which was intended to cover the wave we were experiencing at the time, and an anticipated wave months down the line. We moved to Friday 50% off after October and continued with that till March, 2022. We have since transitioned to getting back to work full time on Fridays.
 
 ### **Staying updated during this time**
 
