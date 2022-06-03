@@ -23,7 +23,7 @@ Our chairs are fully adjustable and from either Featherlite or Haworth.
 
 Don't forget to get spare chargers and adapters when buying new laptops.
 
-* 15" MacBook Pro 
+* 15" MacBook Pro&#x20;
   * Or the 16" MacBook if QA issues have been put to rest
 * 15.6" Dell Precision 7540 CTO Base
   * Intel Core i7-9750H, 6 Core, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W
@@ -35,14 +35,14 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 
 * [Cooler Master MK730](https://www.coolermaster.com/catalog/peripheral/keyboards/mk730/)
 * [Das Keyboard 4 Professional for Mac](https://shop.daskeyboard.com/collections/all-mechanical-keyboards/products/das-keyboard-4-professional-for-mac?variant=1168670496)
-* [Filco Majestouch Convertible 2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail\&p=3901)
+* [Filco Majestouch Convertible 2](https://mechanicalkeyboards.com/shop/index.php?l=product\_detail\&p=3901)
 * [Kinesis Advantage2](https://kinesis-ergo.com/shop/advantage2/)
-* [3M Gel wrist rest](https://www.3m.com/3M/en_US/company-us/all-3m-products/\~/3M-Gel-Wrist-Rest-for-Keyboard-with-Leatherette-Cover-and-Antimicrobial-Product-Protection-WR310LE/?N=5002385+3294308054\&rt=rud)
+* [3M Gel wrist rest](https://www.3m.com/3M/en\_US/company-us/all-3m-products/\~/3M-Gel-Wrist-Rest-for-Keyboard-with-Leatherette-Cover-and-Antimicrobial-Product-Protection-WR310LE/?N=5002385+3294308054\&rt=rud)
 
 ## Mouse
 
 * [Logitech G90](https://www.logitechg.com/en-in/products/gaming-mice/g90-optical-gaming-mouse.html)
-* [Roccat Lua](https://en.roccat.org/Mice/Lua) 
+* [Roccat Lua](https://en.roccat.org/Mice/Lua)&#x20;
 
 ## Monitor
 
@@ -67,13 +67,13 @@ Don't forget to get spare chargers and adapters when buying new laptops.
 ## Utilities for Mac
 
 * [MacPass](https://github.com/MacPass/MacPass): KeyPass Client for Mac
-* [iTerm](https://www.iterm2.com): Better Terminal
-* [HomeBrew](https://brew.sh): Package manager
-* [Spectacle](https://www.spectacleapp.com): Sort-of tiling window management
+* [iTerm](https://www.iterm2.com/): Better Terminal
+* [HomeBrew](https://brew.sh/): Package manager
+* [Rectangle](https://rectangleapp.com/): Sort-of tiling window management
 * [Flycut](https://itunes.apple.com/in/app/flycut-clipboard-manager/): Clipboard manager
 * [Caffeine](http://lightheadsw.com/caffeine/): Keep you mac awake
 * [Dash](https://kapeli.com/dash): Offline searchable programming docs
-* [Display menu](http://displaymenu.milchimgemuesefach.de): Display menu in your menu bar
+* [Display menu](http://displaymenu.milchimgemuesefach.de/): Display menu in your menu bar
 * [Zotero](https://www.zotero.org/download/): Helps manage bibliography and citations, pretty helpful if you want to read/write papers
 * [Trailer](http://ptsochantaris.github.io/trailer): GitHub notifications don't have great discoverability, use this to keep a track of PRs
 * [MeetingBar](https://github.com/leits/MeetingBar): See your next meeting in the menu bar and join with a single click
