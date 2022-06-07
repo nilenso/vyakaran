@@ -10,6 +10,7 @@
 * [Internships](working-with-us/internships.md)
 * [Onboarding](working-with-us/onboarding/README.md)
   * [Onboarding checklist](working-with-us/onboarding/onboarding-checklist.md)
+  * [Onboarding New Partner](working-with-us/onboarding/onboarding-new-partner.md)
 * [Offboarding](working-with-us/offboarding.md)
 
 ## Career
