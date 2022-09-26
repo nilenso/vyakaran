@@ -21,8 +21,8 @@ Chat (currently on Slack) is the primary mode of communication at nilenso
 * Tag @here when you want everyone online to see the message
 * Tag @channel when you're making important announcements. Use prudently
 * Avoid tagging folks on messages in #sundry or on non-critical messages unless you know they are free
-* If you are tagged on a message, respond to it, even if to say that you won't have time to participate in the discussion. Know that someone has taken the effort to type a message intended for you, and not responding to it seems like you're ignoring them
-* Make time to check internal Chat every day and respond to messages
+* If someone has taken the effort to type a message intended for you, do respond to it. Not responding _could_ seem like you're ignoring them
+* Make time to check internal Chat regularly during core working hours, and respond to messages
 
 #### Formatting
 
@@ -41,7 +41,7 @@ Chat (currently on Slack) is the primary mode of communication at nilenso
 
 ### Email
 
-Email is intended for more formal communication. In the interest of transparency, ensure that the appropriate groups are in copied on all company emails
+Email is intended for more formal communication. In the interest of transparency, ensure that the appropriate groups are copied on all company emails
 
 #### Guidelines
 
@@ -68,7 +68,7 @@ Email is intended for more formal communication. In the interest of transparency
 #### Formatting
 
 * Use formatting afforded by your email client or text editor as appropriate. Ensure good readability for the intended recipient(s)
-  * Use an email signature as appropriate
+* Use an email signature as appropriate
 
 #### Timing
 
@@ -118,7 +118,7 @@ Used when chat fails
 
 ### Telegram: nilenso social
 
-Strictly fun only
+Strictly fun only!
 
 #### Guidelines
 
@@ -132,7 +132,7 @@ Strictly fun only
 
 ### Phone
 
-Generally used when all else fails
+Generally only used when all else fails
 
 #### Guidelines
 
