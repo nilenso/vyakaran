@@ -2,7 +2,7 @@
 
 This Independent Contractor Agreement (“the Agreement”) is entered into as of **\<date>** (“Effective Date”) by and between:
 
-Nilenso Software LLP, a limited liability partnership firm, with its registered office at #105, 10th Cross, Indiranagar I Stage, Bangalore 560038, INDIA (hereinafter referred to as “Company” which expression shall mean and include its representatives, successors-in-office and assigns) on the FIRST PART;
+Nilenso Software LLP, a limited liability partnership firm, with its registered office at 3453, 4th floor, 5th Main, Indiranagar 2nd Stage, Bengaluru 560038, INDIA (hereinafter referred to as “Company” which expression shall mean and include its representatives, successors-in-office and assigns) on the FIRST PART;
 
 AND
 
@@ -27,7 +27,7 @@ NOW THIS AGREEMENT WITNESSETH AS FOLLOWS
 
 2.  **PRICING AND PAYMENT TERMS**
 
-    Company agrees to undertake and complete the Services as defined in Annexure A. 
+    Company agrees to undertake and complete the Services as defined in Annexure A.&#x20;
 
     Invoices shall be raised at the start of every month every \[30] days, or at the end of the engagement (whichever comes first), and the payments shall be due within \[15] days from the invoice date.
 
@@ -39,7 +39,7 @@ NOW THIS AGREEMENT WITNESSETH AS FOLLOWS
 * Company agrees that the Services provided herein is a “work for hire”, and ownership of any solutions or application developed while providing the Services lies solely and exclusively with Client. Client will be entitled to freely practice the Services and no liability will accrue to Company from such practice.
 * Company agrees that the compensation provided herein is adequate for the work undertaken and herein waives any and all right, title and interest in the Services including any ownership through patent, copyright, trademark or otherwise.
 * Company shall assist and freely assign without any restriction or limitation all right, title and interest in the Services developed including, but not limited to, patents, patent applications, inventions, designs, trademarks, copyrights, specifications, or other ideas or materials developed or conceived under this Agreement.
-* Prior to commencement herein, Company will use its best efforts to notify Client of any intellectual property rights owned or controlled by it that may need to be licensed in order to practice and fully enjoy the ownership rights to the Services. 
+* Prior to commencement herein, Company will use its best efforts to notify Client of any intellectual property rights owned or controlled by it that may need to be licensed in order to practice and fully enjoy the ownership rights to the Services.&#x20;
 * Except as expressly licensed herein, neither Party grants to the other Party any license directly or by implication, estoppel or otherwise to its patents, patent applications, copyrights, trademarks, or trade secret information by virtue of this Agreement herein.
 
 **4. CONFIDENTIALITY OBLIGATIONS**
@@ -65,18 +65,18 @@ Each Party shall take all reasonable steps to ensure that the other's Confidenti
 
 **5. REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS**
 
-* Authority and Performance by Company: Company hereby represents and warrants that (i) it has the legal right to enter into this Agreement and perform its obligations hereunder; (ii) the performance of its obligations and delivery of Services will not violate any applicable laws or regulations, or cause a breach of any agreements, with any third parties; and (iii) it has obtained all regulatory approvals / licenses to perform the Services covered by this Agreement. 
+* Authority and Performance by Company: Company hereby represents and warrants that (i) it has the legal right to enter into this Agreement and perform its obligations hereunder; (ii) the performance of its obligations and delivery of Services will not violate any applicable laws or regulations, or cause a breach of any agreements, with any third parties; and (iii) it has obtained all regulatory approvals / licenses to perform the Services covered by this Agreement.&#x20;
 * Authority and Performance by Client: Client represents and warrants that (i) it has the legal right to enter into this Agreement and perform its obligations hereunder; (ii) the performance of its obligations will not violate any applicable laws or regulations, or cause a breach of any agreements, with any third parties.
 
 **6. TERM AND TERMINATION**
 
 The term of this Agreement shall commence upon execution hereof and shall continue until termination in keeping with the provisions below:
 
-* By the mutual written assent of both Parties hereto; 
-* By either Party, immediately, for any material breach of terms of this Agreement, which includes but not limited to non-payment by the Client or material deficiency in the Services by Company; 
+* By the mutual written assent of both Parties hereto;&#x20;
+* By either Party, immediately, for any material breach of terms of this Agreement, which includes but not limited to non-payment by the Client or material deficiency in the Services by Company;&#x20;
 * With immediate effect, without giving any prior written notice to the Client, in case, there has been a continuous non- communication with the Client for a period of more than five (5) working days or where the Client has revoked Company’s access to the requisite tools necessary for providing Services hereunder.
 
-Consequence of termination: On termination herein: 
+Consequence of termination: On termination herein:&#x20;
 
 (i) Company shall forthwith cease providing the Services and ensure delivery of all software or solutions that have been developed up until the date of termination; (ii) all invoices which are pending shall immediately be payable by the Client; and (iii) the Parties shall cease using each other’s Confidential Information or/and Intellectual Property.
 
@@ -108,8 +108,8 @@ This Agreement is not intended by the parties to constitute or create a joint ve
 
 * This Agreement embodies the entire understanding of the Parties and supersedes any other agreement or understanding between the Parties relating to the subject matter hereof.
 * No waiver, amendment or modification of this Agreement shall be valid or binding unless written and signed by the Parties.  Waiver by either Party of any breach or default of any clause of this Agreement by the other Party shall not operate as a waiver of any previous or future default or breach of the same or different clause of this Agreement.
-* This Agreement may not be assigned by either Party without the prior written consent of the other Party, which consent will not be unreasonably withheld; provided that this Agreement shall be binding upon and inure to each Party’s respective successors in interest.  
-* Any claim arising under or relating to this Agreement shall be governed by the laws of India. Each party hereby agrees to jurisdiction and venue in the Courts of Singapore as venue and jurisdiction for all disputes and litigation arising under or relating to this Agreement. 
+* This Agreement may not be assigned by either Party without the prior written consent of the other Party, which consent will not be unreasonably withheld; provided that this Agreement shall be binding upon and inure to each Party’s respective successors in interest. &#x20;
+* Any claim arising under or relating to this Agreement shall be governed by the laws of India. Each party hereby agrees to jurisdiction and venue in the Courts of Singapore as venue and jurisdiction for all disputes and litigation arising under or relating to this Agreement.&#x20;
 * If any provision of this Agreement is held void or unenforceable, the remaining provisions shall nevertheless be effective, the intent being to effectuate this Agreement to the fullest extent possible.
 * Any notice required to be served by either party shall be deemed to have been served if the same is sent by registered post acknowledgement due addressed to the other party at the address indicated first herein above.
 
