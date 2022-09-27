@@ -13,7 +13,7 @@ In order to protect your privacy, there is a separate process to claim health re
 * You will be reimbursed via bank transfer
 * We respect your confidentiality. Unless requested by our auditors, the contents of this email will not be shared with anyone
 
-We understand that it's not always easy to find help when you need it, so we've tied up with [Alternative Story](https://alternativestory.in) (AS) to reduce the friction involved in finding a good counsellor.
+We understand that it's not always easy to find help when you need it, so we've tied up with [Alternative Story](https://alternativestory.in/) (AS) to reduce the friction involved in finding a good counsellor.
 
 **Booking a session**
 
@@ -56,3 +56,11 @@ Any expenses related to medical emergencies that are not covered by our insuranc
 * Hospitalisations where treatment is received are covered
 * Parents, spouse and children are insured under the policy
 * Cashless facility is available, please view the list of hospitals here: [https://www.icicilombard.com/cashless-hospitals](https://www.icicilombard.com/cashless-hospitals)
+
+### Outpatient care
+
+nilenso will reimburse outpatient medical expenses above 50k (that are not covered by our insurance plan) against bills. The maximum reimbursement amount is 2L. This amount will be taxed as per prevailing IT regulations.\
+\
+This policy is intended to help our Admin / Ops personnel with significant unexpected expenses, and is not applicable to other nilenso employees or members. \
+\
+As of 2022, up to Rs. 15,000 in medical reimbursements are tax exempt. Tax will be deducted as applicable on the remaining amount.
