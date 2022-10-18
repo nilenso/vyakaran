@@ -11,7 +11,7 @@ Every workstation at nilenso is equipped with the following by default.
 * Utilities
 * Miscellaneous phone chargers and cables
 
-The default specs for the hardware are mentioned below. We tend to upgrade when a newer model is available, unless someone has a strong preference to not do so. Please get in touch with our Operations Team if you'd like help buying or replacing any equipment at your workstation.
+The default specs for the hardware are mentioned below. We tend to upgrade when a newer model is available, unless someone has a strong preference to not do so. Please get in touch with our Operations Team on #operations if you'd like help buying or replacing any equipment at your workstation.
 
 ## Desk and chair
 
