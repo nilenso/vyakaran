@@ -4,7 +4,7 @@
 
 To Whomsoever It May Concern
 
-To** \<Addressee, and address>** optional
+To **\<Addressee, and address>** optional
 
 Subject: Experience letter for **\<Name>**
 

@@ -10,19 +10,19 @@ description: >-
 
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/)
 * [Structure and Interpretation of Computer Program](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-* [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-* [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+* [The Mythical Man Month](https://en.wikipedia.org/wiki/The\_Mythical\_Man-Month)
+* [A Pattern Language](https://en.wikipedia.org/wiki/A\_Pattern\_Language)
 
 ### Backend Developer
 
 * Broad topics to cover: [https://roadmap.sh/backend](https://roadmap.sh/backend)
-* [Java Concurrency in Practice](https://jcip.net)
-* [PostgreSQL Exercises](https://pgexercises.com): a good set of exercises to help you learn about [postgresql](https://www.postgresql.org)
+* [Java Concurrency in Practice](https://jcip.net/)
+* [PostgreSQL Exercises](https://pgexercises.com/): a good set of exercises to help you learn about [postgresql](https://www.postgresql.org/)
 
 ### Clojure
 
-* [4Clojure](http://www.4clojure.com): a good set of exercises to help you learn Clojure
-* [Clojure for the Brave and True](https://www.braveclojure.com)
+* [4Clojure](http://www.4clojure.com/): a good set of exercises to help you learn Clojure
+* [Clojure for the Brave and True](https://www.braveclojure.com/)
 * [Clojure from Ground Up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 * [Clojure Do's and Dont's](https://stuartsierra.com/tag/dos-and-donts)
 * [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
@@ -34,5 +34,5 @@ description: >-
 
 ### Object Oriented Design
 
-* [Practical Object Oriented Design in Ruby](http://www.poodr.com)
+* [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 * [Principles of OoD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)

@@ -51,6 +51,7 @@
   * [Tracking expenses](policy/expense-account/tracking-expenses.md)
   * [Claiming reimbursements](policy/expense-account/claiming-reimbursements.md)
 * [Donation matching](policy/tbd-donation.md)
+* [Salary Advance](policy/salary-advance.md)
 * [Learning and conferences](policy/learning-and-conferences.md)
 * [Community](policy/community.md)
 * [Travel](policy/travel.md)

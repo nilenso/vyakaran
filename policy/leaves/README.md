@@ -4,31 +4,31 @@
 Don't forget to let your clients and colleagues know that you're [taking leave](https://vyakaran.nilenso.com/policy/leaves/taking-leave)
 {% endhint %}
 
+nilenso offers 33 days off annually, broken down as below.
+
 {% tabs %}
-{% tab title="Statutory" %}
-**Statutory leaves**
+{% tab title="Public holidays" %}
+**Public holidays**
 
 | **India**                                                                                                                                                           | Canada                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p></p><ul><li>26 Jan: Republic Day</li><li>01 May: Labour Day</li><li>15 Aug: Independence Day</li><li>02 Oct: Gandhi Jayanti</li><li>01 Nov: Rajyotsava</li></ul> | <p></p><ul><li>15 Feb: Family Day</li><li>24 May: Victoria Day</li><li>01 Jul: Canada Day</li><li>02 Aug: Civic Holiday</li><li>11 Nov: Remembrance Day</li></ul> |
 {% endtab %}
 
-{% tab title="Discretionary" %}
-**Discretionary leaves**
+{% tab title="Vacation or sick leave" %}
+**Vacation or sick leave**
 
-In addition to the statutory holidays, we offer 28 days of paid leave that can be taken as needed.
+In addition to the public holidays, we offer 28 days of paid leave that can be taken as needed.
 {% endtab %}
+{% endtabs %}
 
-{% tab title="Illness" %}
-**Very sick leave**
+Separately, the following leaves are also available.
 
-Time off for serious illness such as dengue etc. does not count as leave.
-{% endtab %}
-
+{% tabs %}
 {% tab title="Menstrual" %}
 **Menstrual leave**
 
-We offer paid menstrual leave for anyone who needs it, no questions asked. This does not count as leave. 
+We offer paid menstrual leave for anyone who needs it, no questions asked. This does not count as leave.&#x20;
 
 Read more on [https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/)
 {% endtab %}
@@ -41,16 +41,24 @@ We believe that parenting is a joy and a responsibility that should be shared by
 This can be taken anytime from 6 months before the child is born to when the child is 24 months old.
 {% endtab %}
 
-{% tab title="Other" %}
-**Additional paid leave**
+{% tab title="Very sick leave" %}
+**Very sick leave**
 
-Additional paid leave of up to 15 days per year is available for significant life events that require extended periods of time off from work, but do not always provide relaxation and rejuvenation. 
+Time off for serious illness such as dengue etc. does not count as leave.
+{% endtab %}
 
-**Additional unpaid leave**
+{% tab title="Bereavement" %}
+**Bereavement**
 
-Additional unpaid leave is available during the year if required. The salary is adjusted prorata based on number of calendar days of additional leaves taken.
+Bereavement leave of up to 15 days per year may be taken as needed.
+{% endtab %}
+
+{% tab title="Special events" %}
+**Special events**
+
+Leave of up to 15 days for significant life events (for instance, if you are getting married) may be taken as needed.&#x20;
 {% endtab %}
 {% endtabs %}
 
-
+Beyond this, additional **unpaid** leave is available during the year if required. The salary is adjusted prorata based on number of days of additional leaves taken.
 

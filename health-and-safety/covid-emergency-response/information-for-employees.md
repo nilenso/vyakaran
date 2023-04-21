@@ -14,11 +14,11 @@ At this time, we feel that having some additional time off will help us deal wit
 
 ### **Staying updated during this time**
 
-Reliable sources of information include the [The Ministry of Health and Welfare](https://www.mohfw.gov.in) for India, [BBMP](http://bbmp.gov.in/covid-19) for Bangalore, and the [World Health Organisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [Centre for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html).
+Reliable sources of information include the [The Ministry of Health and Welfare](https://www.mohfw.gov.in/) for India, [BBMP](http://bbmp.gov.in/covid-19) for Bangalore, and the [World Health Organisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [Centre for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html).
 
 ### **Working from home**
 
-We want to equip you so you can be effective and comfortable while working from home. Please feel free to ship any of these to yourself from the office, or buy new equipment using the company credit card. The easiest way might be to collectively book a cab or a small transport vehicle through blowhorn ([https://blowhorn.com/](https://blowhorn.com)) and have them drop off whatever you need at each of your homes. If there's anything else we can do to support you during this time, just ask.
+We want to equip you so you can be effective and comfortable while working from home. Please feel free to ship any of these to yourself from the office, or buy new equipment using the company credit card. The easiest way might be to collectively book a cab or a small transport vehicle through blowhorn ([https://blowhorn.com/](https://blowhorn.com/)) and have them drop off whatever you need at each of your homes. If there's anything else we can do to support you during this time, just ask.
 
 * monitors
 * keyboards

@@ -4,7 +4,7 @@ While we've always had remote employees and have been remote-friendly, the pande
 
 If you've just joined us, please know that we are here to help you be comfortable and productive in your space.
 
-**Work station**: Where possible have a dedicated workspace (ideally a separate room, or "work area"). If you have the option to work from a friend's place or co-working space, give it a go (at least once in a while). 
+**Work station**: Where possible have a dedicated workspace (ideally a separate room, or "work area"). If you have the option to work from a friend's place or co-working space, give it a go (at least once in a while).&#x20;
 
 Ensure that you are equipped to get started, let us know if we can help you get set up with any of these:
 
@@ -25,7 +25,7 @@ Ensure that you are equipped to get started, let us know if we can help you get 
 
 **Well-being**: take care of yourself, and establish boundaries
 
-* Take regular breaks during the day_. _Don't work all the time! 
+* Take regular breaks during the day_._ Don't work all the time!&#x20;
 * Join in the virtual and _in-person_ get-togethers both during the work day and outside of it so get to hang out, chill and play games
 * Keep to a schedule and switch off at the end of your work day
 * Socialise with friends and family outside of work

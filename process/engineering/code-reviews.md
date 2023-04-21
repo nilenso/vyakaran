@@ -13,33 +13,33 @@ description: >-
 
 Do your best to help the author get their work into trunk. Your job is to assume competence and not just point out changes and modifications and criticisms, your job is to try your best to accept their code into mainline, i.e.; make progress.
 
-* If you like an abstraction, a nitty-gritty or a change, point it out and make them feel like you appreciate their work. 
-* Try to summarize your review with a high-level overview of your thoughts in closing. Mention what you have reviewed, what you skimmed over and what next steps we could take to try to get it merged. 
+* If you like an abstraction, a nitty-gritty or a change, point it out and make them feel like you appreciate their work.&#x20;
+* Try to summarize your review with a high-level overview of your thoughts in closing. Mention what you have reviewed, what you skimmed over and what next steps we could take to try to get it merged.&#x20;
 * If you’ve been put up to review, don’t just skim through and accept, have a healthy conversation.
 
 Avoid unnecessarily terse and assertive questioning. If stuff is unclear, ask the author to explain. Provide information on why you found it difficult to understand and if possible, provide an alternate solution and your current understanding of the piece.
 
 **Avoid**
 
-* Why is this done this way? 
-* What is this? 
-* What does this do? 
+* Why is this done this way?&#x20;
+* What is this?&#x20;
+* What does this do?&#x20;
 * This doesn’t make any sense.
 
 **Instead**
 
-* I didn’t quite understand X. I think doing it as A might be a lot simpler for these reasons: r1, r2. 
-* This looks like it’s X. Do you actually need it? Since we don’t use it anywhere. 
-* I couldn’t parse this. Could we unpack this a bit and pull out semantic methods for readability? 
+* I didn’t quite understand X. I think doing it as A might be a lot simpler for these reasons: r1, r2.&#x20;
+* This looks like it’s X. Do you actually need it? Since we don’t use it anywhere.&#x20;
+* I couldn’t parse this. Could we unpack this a bit and pull out semantic methods for readability?&#x20;
 * This can be better done as Y.
 
 The idea is not just to have flowery language. The idea is to create an environment where civil discourse can be had and power-asymmetries can be reduced.
 
-* Clearly mention that your comment is a nitpick or a style change or an aesthetic suggestion. I like to prefix my messages with: `[NITPICK]`, `[STYLE]`, `[AESTHETIC]` respectively. 
+* Clearly mention that your comment is a nitpick or a style change or an aesthetic suggestion. I like to prefix my messages with: `[NITPICK]`, `[STYLE]`, `[AESTHETIC]` respectively.&#x20;
 * This goes without saying, don’t use aggressive/harsh language. Be very mindful of your tone and angle.
 * Do not make the review personal. Talk about the code.
-  * Prefer: _There’s an issue with **this** code_ over _There’s an issue with **your** code._ 
-* Be mindful of not treating certain closer teammates with positivity and others with not so much. 
+  * Prefer: _There’s an issue with **this** code_ over _There’s an issue with **your** code._&#x20;
+* Be mindful of not treating certain closer teammates with positivity and others with not so much.&#x20;
 * If your review is cut short due to time or lack of bandwidth. Call that out explicitly so that the author isn’t left hanging wondering on what order of depth they should consider your review.
 
 #### **As an author**
@@ -50,6 +50,6 @@ Consider using a template like this to describe your PR. Specifically Because an
 
 ### References
 
-* [https://conventionalcomments.org](https://conventionalcomments.org)
+* [https://conventionalcomments.org](https://conventionalcomments.org/)
 * [http://ptsochantaris.github.io/trailer](http://ptsochantaris.github.io/trailer/)
 * [https://google.github.io/eng-practices/review](https://google.github.io/eng-practices/review)
