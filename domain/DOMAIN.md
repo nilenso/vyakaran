@@ -2,6 +2,10 @@
 
 ## What is the "domain"? What is a "model"?
 
+- Domain modeling is the modeling of a domain of interest. Not a canonical, overarching domain but a subset
+you are interested in. E.g. a seat can have numbers in a context that mandates assigned seating e.g. flight bookings
+but not in another which does not e.g. watching a music concert; the domains differ even though they are dealing with
+the same object i.e. seat. The domains differ because the contexts differ.
 - why have a model?
 - why prefer Value Objects?
 - how does good OOP mirror FP (or vice-versa)?
@@ -11,6 +15,7 @@
 - how is good OOP different from FP?
   - prefer fine-grained abstraction pushed to "leaf nodes" of the object hierarchy
   - avoid highly generic constructs
+  - objects are better thought of as Procedural Data Abstraction i.e. late-bound behavioral specialization triggered by receipt of a message through its public API. This is why it inter-object communication message needs to be as emphasized as the objects themselves.
 
 - [tbd - domain-v-model.jpg]
 
