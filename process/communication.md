@@ -4,15 +4,16 @@
 
 Chat (currently on Slack) is the primary mode of communication at nilenso
 
-#### Channel guidelines
+#### Channel Guidelines
 
-* general is for important company-wide announcements that everyone needs to see
-* finance is for important finance-related announcements
-* sales is for discussing sales leads including existing clients' contractual changes
-* operations is for day-to-day discussions about the office
-* space is for discussions relating to the physical office -- what needs to be bought, disposed of, repaired, cared for
-* wfh-leaves-ooo is self explanatory, and is for when you're working from home, or out of the office
-* sundry is for everything else, don't post anything important here!
+* `#general` is for important company-wide announcements that everyone needs to see
+* `#finance` is for important finance-related announcements
+* `#sales` is for discussing sales leads including existing clients' contractual changes
+* `#decisions` is to announce decisions that merit company-wide visibility.
+* `#operations` is for day-to-day discussions about the office
+* `#space` is for discussions relating to the physical office -- what needs to be bought, disposed of, repaired, cared for
+* `#wfh-leaves-ooo` is self explanatory, and is for when you're working from home, or out of the office
+* `#sundry` is for everything else, don't post anything important here!
 * if you're unsure where a message belongs, ask
 
 #### Tagging
