@@ -13,6 +13,8 @@ Every workstation at nilenso (remote or in-office) is equipped with the followin
 
 This is a recommended list of default equipment to setup a workstation. It should be updated when better options are available, unless someone has a strong preference to not do so. Please get in touch with our Operations Team on #operations if you'd like help buying or replacing any equipment at your workstation.
 
+When a new employee joins, use [this list of curated items](https://docs.google.com/spreadsheets/d/1MZWkMgNyDAH\_i-e2xVg4VUQhRbNadXYNpJfcuKZdw9g/edit#gid=0) for their WFH setup. Before sending it across, check if the sheet is up to date: the items are still on this page, the links are working.
+
 ## Desk
 
 * [Flowlyf Flowdesk 2](https://flowlyf.com/flowdesk-2/)
