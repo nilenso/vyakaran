@@ -14,6 +14,7 @@ Chat (currently on Slack) is the primary mode of communication at nilenso
 * `#space` is for discussions relating to the physical office -- what needs to be bought, disposed of, repaired, cared for
 * `#wfh-leaves-ooo` is self explanatory, and is for when you're working from home, or out of the office
 * `#sundry` is for everything else, don't post anything important here!
+* A separate channel for each stream of work/project. For ex. each client project gets a separate channel. Project related chatter goes there.
 * if you're unsure where a message belongs, ask
 
 #### Tagging
