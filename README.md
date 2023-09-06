@@ -12,4 +12,8 @@ Feel free to click around the links on the sidebar if you're particularly intere
 This [blog post](https://blog.nilenso.com/blog/2014/11/19/huh-a-software-cooperative) is a great starting point to learn why we structured ourselves as a cooperative.
 {% endhint %}
 
-![nilenso – since 2013](.gitbook/assets/nilenso-silhouette-2.png)
+<div align="center">
+
+<img src=".gitbook/assets/nilenso-silhouette-2.png" alt="nilenso – since 2013">
+
+</div>

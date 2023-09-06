@@ -17,7 +17,7 @@ We understand that it's not always easy to find help when you need it, so we've 
 
 **Booking a session**
 
-* To book a 1:1 therapy session with a counsellor, visit the [partner link](https://thealternativestory.zohobookings.in/#/customer/partnerorgsservices)
+* To book a 1:1 therapy session with a counsellor, visit the [partner link](https://book.psychonline.in/clinic/thealternativestory)
 * Select Partner Orgs
   * Partner Orgs - New clients - 1:1 therapy for the first session
   * Partner Orgs - Existing clients - 1:1 therapy for subsequent sessions
