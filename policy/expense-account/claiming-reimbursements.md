@@ -2,11 +2,9 @@
 
 ### Claiming a reimbursement <a href="#claiming-a-reimbursement-using-kulu" id="claiming-a-reimbursement-using-kulu"></a>
 
-* The operations team uses a Drive folder bookmarked on the [#reimbursements](https://nilenso.slack.com/archives/C0429CP6TMJ) channel to manage everyone's reimbursements.
-* At the end of every month, the ops team creates a folder and a spreadsheet for that month.
-* Add entries for all your reimbursements in the sheet with a serial number. You'll need to attach invoices for each entry.
-* Rename each invoice to the serial number from the sheet. Upload them to the month's drive folder.
-* Reimbursements will be credited with next month’s salary.
+* Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSchvhzwBAcUXrZfH3dq7einvmpLqqZFzBBE1FzV4IY2whAyYA/viewform?pli=1) and attach the receipt along with it
+* For efficient account and processing, Please claim a reimbursement as soon as the payment is made
+* Reimbursements are processed at paid out at the end of the month
 
 ### Donations <a href="#donations" id="donations"></a>
 
