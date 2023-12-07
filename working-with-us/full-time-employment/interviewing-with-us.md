@@ -15,11 +15,12 @@ Our process follows this (rough) structure:
 *   Please tell us about your work (professional experience, open source contributions, hobby projects), as well as your interests and passions by writing in to careers@nilenso.com.
 
 
-*   Introductory questions or introductory call (30-45 minutes)
+*   Introductory questions or introductory call (up to 90 minutes)
 
     * This is where we introduce ourselves to each other, ideally over a video call
     * The objective is to understand your expectations and make sure we are in alignment. Some of this conversation may be technical.
     * While we try to get face time with everyone that applies to us, if we don't have much information about you, we may kick off the conversation over email instead.
+    * If we feel that we have the information we need, we may wrap up the call early. The length of this call isn't indicative of how it went.
 
 
 *   Pairing with us (120 minutes)
@@ -31,7 +32,7 @@ Our process follows this (rough) structure:
 
 *   Technical conversations (60 minutes)
 
-    * These conversations are often centered around real-world challenges that we have experienced
+    * These conversations are often centred around real-world challenges that we have experienced
     * We are not expecting you to come up with a specific response, please treat this as a free-flowing discussion
 
 
