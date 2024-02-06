@@ -39,7 +39,7 @@ We understand that it's not always easy to find help when you need it, so we've 
 * Sessions are 45-60 min
 * The number of sessions you need would be decided by the counsellor and you
 
-If you are working with a counsellor outside Alternative Story, we will still cover all related expenses as per our existing policy.
+If you are working with a counsellor outside Alternative Story, we will still cover all related expenses as per our existing policy. However, this is treated as a perquisite under the Income Tax Act, and is taxed accordingly.
 
 ### Healthcare
 
